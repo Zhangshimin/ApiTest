@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">  
+<suite name="suitename" verbose="1"  configfailurepolicy="continue" time-out="1000" skipfailedinvocationcounts="true"> 
+	<test name="DataCenter" preserve-order="true" skipfailedinvocationcounts="true" >
+	<packages>
+		<package name="com.ezijing.qa.datacenter.mobile" />
+		<package name="com.ezijing.qa.datacenter.player" />
+		 <!--<package name="com.ezijing.qa.smoke" />-->
+	</packages>
+	<classes>
+		<!--  					datacenter                          -->
+		<class name="com.ezijing.qa.datacenter.GetCourseInformation" />
+		<class name="com.ezijing.qa.datacenter.GetCourseMyFavorite" />
+		<class name="com.ezijing.qa.datacenter.GetCourseMyjoined" />
+		<class name="com.ezijing.qa.datacenter.GetCourseMyPurchased" />
+		<class name="com.ezijing.qa.datacenter.GetHot" />
+		<class name="com.ezijing.qa.datacenter.GetIsLogin" />
+		<class name="com.ezijing.qa.datacenter.GetProgress" />
+		<!--<class name="com.ezijing.qa.datacenter.GetUserInformation" />-->
+		<class name="com.ezijing.qa.datacenter.GetProgressAll" />
+		<!--  					video                          -->
+		<class name="com.ezijing.qa.datacenter.video.GetLastPlayed" />
+		<class name="com.ezijing.qa.datacenter.video.GetVideoIsMark" />
+		<class name="com.ezijing.qa.datacenter.video.GetVideoProgress" />
+		<class name="com.ezijing.qa.datacenter.video.PostVideoMarks" /> 
+	</classes>
+	</test> <!-- Test -->
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+</suite> <!-- Suite -->

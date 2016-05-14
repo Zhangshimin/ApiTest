@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.313">
+  <properties />
+  
+  
+            <testcase name="isLoginNormal" time="0.157" classname="com.ezijing.qa.datacenter.GetIsLogin" />
+                <testcase name="isLoginNologin" time="0.156" classname="com.ezijing.qa.datacenter.GetIsLogin" />
+      
+</testsuite>

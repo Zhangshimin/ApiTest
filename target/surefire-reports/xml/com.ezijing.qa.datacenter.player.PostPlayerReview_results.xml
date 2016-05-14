@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.735">
+  <properties />
+  
+  
+            <testcase name="playerReviewNovideoid" time="0.188" classname="com.ezijing.qa.datacenter.player.PostPlayerReview" />
+                <testcase name="playerReviewNoresult" time="0.250" classname="com.ezijing.qa.datacenter.player.PostPlayerReview" />
+                <testcase name="playerReviewNodevicetype" time="0.234" classname="com.ezijing.qa.datacenter.player.PostPlayerReview" />
+                <testcase name="playerReviewNormal" time="0.266" classname="com.ezijing.qa.datacenter.player.PostPlayerReview" />
+                <testcase name="playerReviewNoseriesid" time="0.234" classname="com.ezijing.qa.datacenter.player.PostPlayerReview" />
+                <testcase name="playerReviewNoquizid" time="0.250" classname="com.ezijing.qa.datacenter.player.PostPlayerReview" />
+                <testcase name="playerReviewNocosttime" time="0.313" classname="com.ezijing.qa.datacenter.player.PostPlayerReview" />
+      
+</testsuite>

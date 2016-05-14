@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">  
+<suite name="suitename" verbose="1"  configfailurepolicy="continue" time-out="2000" skipfailedinvocationcounts="true"> 
+	<test name="SSO" preserve-order="true" skipfailedinvocationcounts="true" >
+	<classes>
+		<!--  					SSO                          -->
+		<class name="com.ezijing.qa.sso.DeleteTicketTGT" />
+		<!--<class name="com.ezijing.qa.sso.DeleteUser" />-->
+		<class name="com.ezijing.qa.sso.GetRole" />
+		<class name="com.ezijing.qa.sso.GetUser" />
+		<!--<class name="com.ezijing.qa.sso.PostModifyPassword" />-->
+		<class name="com.ezijing.qa.sso.PostProxyValidate" />
+		<class name="com.ezijing.qa.sso.PostRegister" />
+		<class name="com.ezijing.qa.sso.PostRegisterCheck" />
+		<class name="com.ezijing.qa.sso.PostRegProxyValidate" />
+		<class name="com.ezijing.qa.sso.PostTickets" />
+		<class name="com.ezijing.qa.sso.PostTicketsTGT" />
+		<!--  <class name="com.ezijing.qa.sso.PostUpdateUser" />
+		<class name="com.ezijing.qa.sso.PostUser" />  
+		<class name="com.ezijing.qa.sso.PostUserInfo" /> -->
+		<class name="com.ezijing.qa.sso.PostValidateEmail" />
+		<!--<class name="com.ezijing.qa.sso.PutUser" />  -->
+	</classes>
+	</test> <!-- Test -->
+	<test name="JSSDK" verbose="1" preserve-order="true" skipfailedinvocationcounts="true">
+	<classes>
+		<class name="com.ezijing.qa.jssdk.GetAccountLogin" />
+		<class name="com.ezijing.qa.jssdk.GetAccountLogout" />
+		<class name="com.ezijing.qa.jssdk.GetAccountPassreset" />
+		<class name="com.ezijing.qa.jssdk.GetAccountPassupdate" />
+		<class name="com.ezijing.qa.jssdk.GetAccountPrecheck" />
+		<class name="com.ezijing.qa.jssdk.GetAccountRegister" />
+		<class name="com.ezijing.qa.jssdk.GetAccountShow" />
+		<class name="com.ezijing.qa.jssdk.GetAccountUpdate" />
+		<class name="com.ezijing.qa.jssdk.GetUserShow" />
+	</classes>	
+	</test>
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+</suite> <!-- Suite -->

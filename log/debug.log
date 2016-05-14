@@ -1,0 +1,1404 @@
+2015-09-07 23:20:23,203 INFO  [main] (PostTickets.java:86)     - Test Case is : getTGTNoPassword
+2015-09-07 23:20:24,187 INFO  [main] (PostTickets.java:73)     - Test Case is : getTGTNoUsername
+2015-09-07 23:20:24,312 INFO  [main] (PostTickets.java:57)     - Test Case is : getTGTNormal
+2015-09-07 23:20:24,453 INFO  [main] (PostTickets.java:114)     - Test Case is : getTGTWrongPassword
+2015-09-07 23:20:24,578 INFO  [main] (PostTickets.java:99)     - Test Case is : getTGTWrongUsername
+2015-09-07 23:26:59,453 INFO  [main] (PostPlayerReview.java:133)     - Test Case is : playerReviewNocosttime
+2015-09-07 23:26:59,875 INFO  [main] (PostPlayerReview.java:98)     - Test Case is : playerReviewNodevicetype
+2015-09-07 23:27:00,078 INFO  [main] (PostPlayerReview.java:115)     - Test Case is : playerReviewNoquizid
+2015-09-07 23:27:00,328 INFO  [main] (PostPlayerReview.java:79)     - Test Case is : playerReviewNoresult
+2015-09-07 23:27:00,562 INFO  [main] (PostPlayerReview.java:42)     - Test Case is : playerReviewNormal
+2015-09-07 23:27:00,796 INFO  [main] (PostPlayerReview.java:150)     - Test Case is : playerReviewNoseriesid
+2015-09-07 23:27:01,015 INFO  [main] (PostPlayerReview.java:62)     - Test Case is : playerReviewNovideoid
+2015-09-07 23:32:21,671 INFO  [main] (PostPlayerReview.java:133)     - Test Case is : playerReviewNocosttime
+2015-09-07 23:32:21,921 INFO  [main] (PostPlayerReview.java:98)     - Test Case is : playerReviewNodevicetype
+2015-09-07 23:32:22,125 INFO  [main] (PostPlayerReview.java:115)     - Test Case is : playerReviewNoquizid
+2015-09-07 23:32:22,312 INFO  [main] (PostPlayerReview.java:79)     - Test Case is : playerReviewNoresult
+2015-09-07 23:32:22,515 INFO  [main] (PostPlayerReview.java:42)     - Test Case is : playerReviewNormal
+2015-09-07 23:32:22,718 INFO  [main] (PostPlayerReview.java:150)     - Test Case is : playerReviewNoseriesid
+2015-09-07 23:32:22,921 INFO  [main] (PostPlayerReview.java:62)     - Test Case is : playerReviewNovideoid
+2015-09-07 23:33:12,156 INFO  [main] (PostPlayerReview.java:131)     - Test Case is : playerReviewNocosttime
+2015-09-07 23:33:12,406 INFO  [main] (PostPlayerReview.java:96)     - Test Case is : playerReviewNodevicetype
+2015-09-07 23:33:12,593 INFO  [main] (PostPlayerReview.java:113)     - Test Case is : playerReviewNoquizid
+2015-09-07 23:33:12,812 INFO  [main] (PostPlayerReview.java:77)     - Test Case is : playerReviewNoresult
+2015-09-07 23:33:13,000 INFO  [main] (PostPlayerReview.java:42)     - Test Case is : playerReviewNormal
+2015-09-07 23:33:13,234 INFO  [main] (PostPlayerReview.java:148)     - Test Case is : playerReviewNoseriesid
+2015-09-07 23:33:13,437 INFO  [main] (PostPlayerReview.java:60)     - Test Case is : playerReviewNovideoid
+2015-09-07 23:35:19,984 INFO  [main] (PostPlayerReview.java:130)     - Test Case is : playerReviewNocosttime
+2015-09-07 23:35:20,187 INFO  [main] (PostPlayerReview.java:95)     - Test Case is : playerReviewNodevicetype
+2015-09-07 23:35:20,375 INFO  [main] (PostPlayerReview.java:112)     - Test Case is : playerReviewNoquizid
+2015-09-07 23:35:20,562 INFO  [main] (PostPlayerReview.java:76)     - Test Case is : playerReviewNoresult
+2015-09-07 23:35:20,765 INFO  [main] (PostPlayerReview.java:41)     - Test Case is : playerReviewNormal
+2015-09-07 23:35:22,625 INFO  [main] (PostPlayerReview.java:147)     - Test Case is : playerReviewNoseriesid
+2015-09-07 23:35:22,859 INFO  [main] (PostPlayerReview.java:59)     - Test Case is : playerReviewNovideoid
+2015-09-07 23:51:38,968 INFO  [main] (PostPlayerReview.java:89)     - Test Case is : playerReviewNocosttime
+2015-09-07 23:51:39,390 INFO  [main] (PostPlayerReview.java:71)     - Test Case is : playerReviewNodevicetype
+2015-09-07 23:51:39,593 INFO  [main] (PostPlayerReview.java:80)     - Test Case is : playerReviewNoquizid
+2015-09-07 23:51:39,781 INFO  [main] (PostPlayerReview.java:62)     - Test Case is : playerReviewNoresult
+2015-09-07 23:51:39,984 INFO  [main] (PostPlayerReview.java:45)     - Test Case is : playerReviewNormal
+2015-09-07 23:51:40,203 INFO  [main] (PostPlayerReview.java:98)     - Test Case is : playerReviewNoseriesid
+2015-09-07 23:51:40,437 INFO  [main] (PostPlayerReview.java:53)     - Test Case is : playerReviewNovideoid
+2015-09-07 23:54:40,156 INFO  [main] (PostPlayerReview.java:89)     - Test Case is : playerReviewNocosttime
+2015-09-07 23:54:40,390 INFO  [main] (PostPlayerReview.java:71)     - Test Case is : playerReviewNodevicetype
+2015-09-07 23:54:40,593 INFO  [main] (PostPlayerReview.java:80)     - Test Case is : playerReviewNoquizid
+2015-09-07 23:54:40,781 INFO  [main] (PostPlayerReview.java:62)     - Test Case is : playerReviewNoresult
+2015-09-07 23:54:40,984 INFO  [main] (PostPlayerReview.java:45)     - Test Case is : playerReviewNormal
+2015-09-07 23:56:43,203 INFO  [main] (PostPlayerReview.java:88)     - Test Case is : playerReviewNocosttime
+2015-09-07 23:56:44,484 INFO  [main] (PostPlayerReview.java:70)     - Test Case is : playerReviewNodevicetype
+2015-09-07 23:56:44,718 INFO  [main] (PostPlayerReview.java:79)     - Test Case is : playerReviewNoquizid
+2015-09-07 23:56:44,968 INFO  [main] (PostPlayerReview.java:61)     - Test Case is : playerReviewNoresult
+2015-09-07 23:56:45,234 INFO  [main] (PostPlayerReview.java:44)     - Test Case is : playerReviewNormal
+2015-09-07 23:56:45,515 INFO  [main] (PostPlayerReview.java:97)     - Test Case is : playerReviewNoseriesid
+2015-09-07 23:56:45,750 INFO  [main] (PostPlayerReview.java:52)     - Test Case is : playerReviewNovideoid
+2015-09-07 23:59:06,015 INFO  [main] (PostPlayerReview.java:85)     - Test Case is : playerReviewNocosttime
+2015-09-07 23:59:07,296 INFO  [main] (PostPlayerReview.java:67)     - Test Case is : playerReviewNodevicetype
+2015-09-07 23:59:07,562 INFO  [main] (PostPlayerReview.java:76)     - Test Case is : playerReviewNoquizid
+2015-09-07 23:59:07,828 INFO  [main] (PostPlayerReview.java:58)     - Test Case is : playerReviewNoresult
+2015-09-07 23:59:08,062 INFO  [main] (PostPlayerReview.java:41)     - Test Case is : playerReviewNormal
+2015-09-07 23:59:08,343 INFO  [main] (PostPlayerReview.java:94)     - Test Case is : playerReviewNoseriesid
+2015-09-07 23:59:08,578 INFO  [main] (PostPlayerReview.java:49)     - Test Case is : playerReviewNovideoid
+2015-09-08 23:46:19,359 INFO  [main] (PostMessage.java:40)     - Test Case is : createMessageNormal
+2015-09-08 23:47:04,906 INFO  [main] (PostMessage.java:40)     - Test Case is : createMessageNormal
+2015-09-08 23:48:00,171 INFO  [main] (PostMessage.java:40)     - Test Case is : createMessageNormal
+2015-09-08 23:54:05,359 INFO  [main] (PostThread.java:37)     - Test Case is : createMessageNormal
+2015-09-09 00:04:22,000 INFO  [main] (PostThread.java:37)     - Test Case is : createMessageNormal
+2015-09-09 00:04:53,437 INFO  [main] (PostThread.java:37)     - Test Case is : createMessageNormal
+2015-09-09 00:06:07,093 INFO  [main] (PostMessage.java:40)     - Test Case is : createMessageNormal
+2015-09-09 00:13:44,250 INFO  [main] (GetThread.java:38)     - Test Case is : getThreadNormal
+2015-09-09 00:16:40,875 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-09 00:16:41,093 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-09 00:16:41,328 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-09 00:16:41,328 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-09 00:16:41,328 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-09 00:16:41,343 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-09 00:16:41,343 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-09 00:16:41,343 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: POST /sso/v1/tickets HTTP/1.1
+2015-09-09 00:16:41,343 DEBUG [main] (    Wire.java:72)     -  >> "POST /sso/v1/tickets HTTP/1.1[\r][\n]"
+2015-09-09 00:16:41,343 DEBUG [main] (    Wire.java:72)     -  >> "Content-Length: 69[\r][\n]"
+2015-09-09 00:16:41,343 DEBUG [main] (    Wire.java:72)     -  >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2015-09-09 00:16:41,343 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-09 00:16:41,343 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-09 00:16:41,343 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-09 00:16:41,343 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-09 00:16:41,343 DEBUG [main] (DefaultClientConnection.java:272)     - >> POST /sso/v1/tickets HTTP/1.1
+2015-09-09 00:16:41,343 DEBUG [main] (DefaultClientConnection.java:275)     - >> Content-Length: 69
+2015-09-09 00:16:41,343 DEBUG [main] (DefaultClientConnection.java:275)     - >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2015-09-09 00:16:41,343 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-09 00:16:41,343 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-09 00:16:41,343 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-09 00:16:41,343 DEBUG [main] (    Wire.java:86)     -  >> "password=123123&service=http%3A%2F%2Fsit.ezijing.com&username=test201"
+2015-09-09 00:16:41,406 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 201 Created[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 08 Sep 2015 16:16:35 GMT[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "Content-Length: 114[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "Vary: Origin[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Credentials: true[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "Location: http://earth.ezijing:8808/sso/v1/tickets/TGT-285-YVUkJZG2l0FMNcu2qFFxGapxPR52ZzvWFr2zmJWhyvzBHyTcIg-cas[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "Accept-Ranges: bytes[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "Server: Noelios-Restlet-Engine/1.1..1[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Headers: X-Requested-With[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 201 Created
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 201 Created
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 08 Sep 2015 16:16:35 GMT
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json;charset=UTF-8
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Length: 114
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Origin: *
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:259)     - << Vary: Origin
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Credentials: true
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:259)     - << Location: http://earth.ezijing:8808/sso/v1/tickets/TGT-285-YVUkJZG2l0FMNcu2qFFxGapxPR52ZzvWFr2zmJWhyvzBHyTcIg-cas
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:259)     - << Accept-Ranges: bytes
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: Noelios-Restlet-Engine/1.1..1
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Headers: X-Requested-With
+2015-09-09 00:16:41,421 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-09 00:16:41,437 DEBUG [main] (    Wire.java:86)     -  << "{"data":{"tgt_id":"TGT-285-YVUkJZG2l0FMNcu2qFFxGapxPR52ZzvWFr2zmJWhyvzBHyTcIg-cas"},"errorCode":200,"errorMsg":""}"
+2015-09-09 00:16:41,437 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@1690781
+2015-09-09 00:16:41,437 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-09 00:16:41,593 INFO  [main] (GetThread.java:38)     - Test Case is : getThreadNormal
+2015-09-09 00:16:42,656 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-09 00:16:42,671 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-09 00:16:42,734 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-09 00:16:42,734 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-09 00:16:42,734 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-09 00:16:42,734 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-09 00:16:42,734 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-09 00:16:42,734 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: GET /web/api/thread?thread=469&body=testgetthread HTTP/1.1
+2015-09-09 00:16:42,734 DEBUG [main] (    Wire.java:72)     -  >> "GET /web/api/thread?thread=469&body=testgetthread HTTP/1.1[\r][\n]"
+2015-09-09 00:16:42,734 DEBUG [main] (    Wire.java:72)     -  >> "token: TGT-285-YVUkJZG2l0FMNcu2qFFxGapxPR52ZzvWFr2zmJWhyvzBHyTcIg-cas[\r][\n]"
+2015-09-09 00:16:42,734 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-09 00:16:42,750 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-09 00:16:42,750 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-09 00:16:42,750 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-09 00:16:42,750 DEBUG [main] (DefaultClientConnection.java:272)     - >> GET /web/api/thread?thread=469&body=testgetthread HTTP/1.1
+2015-09-09 00:16:42,750 DEBUG [main] (DefaultClientConnection.java:275)     - >> token: TGT-285-YVUkJZG2l0FMNcu2qFFxGapxPR52ZzvWFr2zmJWhyvzBHyTcIg-cas
+2015-09-09 00:16:42,750 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-09 00:16:42,750 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-09 00:16:42,750 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 200 OK[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 08 Sep 2015 16:16:38 GMT[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Transfer-Encoding: chunked[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Vary: Origin[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Server: nginx/1.6.0[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "X-Powered-By: PHP/5.6.4[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "X-Drupal-authCache: MISS[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "WS: 0.5[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Expires: Sun, 19 Nov 1978 05:00:00 GMT[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Last-Modified: Tue, 08 Sep 2015 16:16:37 +0000[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "ETag: "1441728997"[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Vary: Accept[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Set-Cookie: aceuser=test201; expires=Thu, 01-Oct-2015 19:49:57 GMT; Max-Age=1999999; path=/; domain=.ezijing.com[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Headers: X-Requested-With[\r][\n]"
+2015-09-09 00:16:44,312 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 200 OK
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 200 OK
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 08 Sep 2015 16:16:38 GMT
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Transfer-Encoding: chunked
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Origin: *
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Vary: Origin
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: nginx/1.6.0
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Powered-By: PHP/5.6.4
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Drupal-authCache: MISS
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << WS: 0.5
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Expires: Sun, 19 Nov 1978 05:00:00 GMT
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Last-Modified: Tue, 08 Sep 2015 16:16:37 +0000
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << ETag: "1441728997"
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Vary: Accept
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Set-Cookie: aceuser=test201; expires=Thu, 01-Oct-2015 19:49:57 GMT; Max-Age=1999999; path=/; domain=.ezijing.com
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-09 00:16:44,328 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Headers: X-Requested-With
+2015-09-09 00:16:44,390 DEBUG [main] (ResponseProcessCookies.java:117)     - Cookie accepted [aceuser="test201", version:0, domain:.ezijing.com, path:/, expiry:Fri Oct 02 03:49:57 CST 2015]
+2015-09-09 00:16:44,390 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-09 00:16:44,390 DEBUG [main] (    Wire.java:72)     -  << "ac[\r][\n]"
+2015-09-09 00:16:44,390 DEBUG [main] (    Wire.java:72)     -  << "[\n]"
+2015-09-09 00:16:44,390 DEBUG [main] (    Wire.java:86)     -  << "[{"thread_id":"469","subject":"_subject","last_updated":"1441728362","has_tokens":"0","is_new":"2","participants":null,"uid":"27296","picture":"/user.jpg","body":"_body"}]"
+2015-09-09 00:16:44,390 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-09 00:16:44,390 DEBUG [main] (    Wire.java:72)     -  << "0[\r][\n]"
+2015-09-09 00:16:44,390 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-09 00:16:44,390 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@8c4ac0
+2015-09-09 00:16:44,390 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-09 00:16:44,546 DEBUG [Finalizer] (DefaultClientConnection.java:176)     - Connection 0.0.0.0:4353<->119.90.34.162:443 closed
+2015-09-09 00:16:44,546 DEBUG [Finalizer] (DefaultClientConnection.java:176)     - Connection 0.0.0.0:4340<->119.90.34.162:443 closed
+2015-09-09 00:18:22,437 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-09 00:18:22,640 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-09 00:18:22,843 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-09 00:18:22,859 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-09 00:18:22,859 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-09 00:18:22,859 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-09 00:18:22,859 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-09 00:18:22,859 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: POST /sso/v1/tickets HTTP/1.1
+2015-09-09 00:18:22,859 DEBUG [main] (    Wire.java:72)     -  >> "POST /sso/v1/tickets HTTP/1.1[\r][\n]"
+2015-09-09 00:18:22,859 DEBUG [main] (    Wire.java:72)     -  >> "Content-Length: 69[\r][\n]"
+2015-09-09 00:18:22,859 DEBUG [main] (    Wire.java:72)     -  >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2015-09-09 00:18:22,859 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-09 00:18:22,859 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-09 00:18:22,859 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-09 00:18:22,859 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-09 00:18:22,859 DEBUG [main] (DefaultClientConnection.java:272)     - >> POST /sso/v1/tickets HTTP/1.1
+2015-09-09 00:18:22,859 DEBUG [main] (DefaultClientConnection.java:275)     - >> Content-Length: 69
+2015-09-09 00:18:22,859 DEBUG [main] (DefaultClientConnection.java:275)     - >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2015-09-09 00:18:22,859 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-09 00:18:22,859 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-09 00:18:22,859 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-09 00:18:22,859 DEBUG [main] (    Wire.java:86)     -  >> "password=123123&service=http%3A%2F%2Fsit.ezijing.com&username=test201"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 201 Created[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 08 Sep 2015 16:18:17 GMT[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "Content-Length: 114[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "Vary: Origin[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Credentials: true[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "Location: http://earth.ezijing:8808/sso/v1/tickets/TGT-286-r5kTcPJZBfrvzN7bCXiV4HHwpcYkS1qVejUyu9RG3Ix9UJxVdJ-cas[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "Accept-Ranges: bytes[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "Server: Noelios-Restlet-Engine/1.1..1[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Headers: X-Requested-With[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 201 Created
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 201 Created
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 08 Sep 2015 16:18:17 GMT
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json;charset=UTF-8
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Length: 114
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Origin: *
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:259)     - << Vary: Origin
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Credentials: true
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:259)     - << Location: http://earth.ezijing:8808/sso/v1/tickets/TGT-286-r5kTcPJZBfrvzN7bCXiV4HHwpcYkS1qVejUyu9RG3Ix9UJxVdJ-cas
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:259)     - << Accept-Ranges: bytes
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: Noelios-Restlet-Engine/1.1..1
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-09 00:18:22,937 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Headers: X-Requested-With
+2015-09-09 00:18:22,953 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-09 00:18:22,953 DEBUG [main] (    Wire.java:86)     -  << "{"data":{"tgt_id":"TGT-286-r5kTcPJZBfrvzN7bCXiV4HHwpcYkS1qVejUyu9RG3Ix9UJxVdJ-cas"},"errorCode":200,"errorMsg":""}"
+2015-09-09 00:18:22,953 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@1690781
+2015-09-09 00:18:22,953 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-09 00:18:23,109 INFO  [main] (PostThread.java:37)     - Test Case is : createMessageNormal
+2015-09-09 00:18:24,125 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-09 00:18:24,125 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-09 00:18:24,203 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-09 00:18:24,203 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-09 00:18:24,203 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-09 00:18:24,203 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-09 00:18:24,203 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-09 00:18:24,203 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: POST /web/api/thread HTTP/1.1
+2015-09-09 00:18:24,203 DEBUG [main] (    Wire.java:72)     -  >> "POST /web/api/thread HTTP/1.1[\r][\n]"
+2015-09-09 00:18:24,203 DEBUG [main] (    Wire.java:72)     -  >> "token: TGT-286-r5kTcPJZBfrvzN7bCXiV4HHwpcYkS1qVejUyu9RG3Ix9UJxVdJ-cas[\r][\n]"
+2015-09-09 00:18:24,203 DEBUG [main] (    Wire.java:72)     -  >> "Content-Length: 50[\r][\n]"
+2015-09-09 00:18:24,203 DEBUG [main] (    Wire.java:72)     -  >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2015-09-09 00:18:24,218 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-09 00:18:24,218 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-09 00:18:24,218 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-09 00:18:24,218 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-09 00:18:24,218 DEBUG [main] (DefaultClientConnection.java:272)     - >> POST /web/api/thread HTTP/1.1
+2015-09-09 00:18:24,218 DEBUG [main] (DefaultClientConnection.java:275)     - >> token: TGT-286-r5kTcPJZBfrvzN7bCXiV4HHwpcYkS1qVejUyu9RG3Ix9UJxVdJ-cas
+2015-09-09 00:18:24,218 DEBUG [main] (DefaultClientConnection.java:275)     - >> Content-Length: 50
+2015-09-09 00:18:24,218 DEBUG [main] (DefaultClientConnection.java:275)     - >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2015-09-09 00:18:24,218 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-09 00:18:24,218 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-09 00:18:24,218 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-09 00:18:24,218 DEBUG [main] (    Wire.java:86)     -  >> "recipients%5B%5D=27296&subject=_subject&body=_body"
+2015-09-09 00:18:25,750 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 200 OK[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 08 Sep 2015 16:18:20 GMT[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Transfer-Encoding: chunked[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Vary: Origin[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Server: nginx/1.6.0[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "X-Powered-By: PHP/5.6.4[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "WS: 0.5[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Expires: Sun, 19 Nov 1978 05:00:00 GMT[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Last-Modified: Tue, 08 Sep 2015 16:18:18 +0000[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "ETag: "1441729098"[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Vary: Accept[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Set-Cookie: aceuser=test201; expires=Thu, 01-Oct-2015 19:51:38 GMT; Max-Age=1999998; path=/; domain=.ezijing.com[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Headers: X-Requested-With[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-09 00:18:25,765 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 200 OK
+2015-09-09 00:18:25,765 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 200 OK
+2015-09-09 00:18:25,765 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 08 Sep 2015 16:18:20 GMT
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Transfer-Encoding: chunked
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Origin: *
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Vary: Origin
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: nginx/1.6.0
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Powered-By: PHP/5.6.4
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << WS: 0.5
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Expires: Sun, 19 Nov 1978 05:00:00 GMT
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Last-Modified: Tue, 08 Sep 2015 16:18:18 +0000
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << ETag: "1441729098"
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Vary: Accept
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Set-Cookie: aceuser=test201; expires=Thu, 01-Oct-2015 19:51:38 GMT; Max-Age=1999998; path=/; domain=.ezijing.com
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-09 00:18:25,781 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Headers: X-Requested-With
+2015-09-09 00:18:25,828 DEBUG [main] (ResponseProcessCookies.java:117)     - Cookie accepted [aceuser="test201", version:0, domain:.ezijing.com, path:/, expiry:Fri Oct 02 03:51:38 CST 2015]
+2015-09-09 00:18:25,828 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-09 00:18:25,828 DEBUG [main] (    Wire.java:72)     -  << "f6[\r][\n]"
+2015-09-09 00:18:25,828 DEBUG [main] (    Wire.java:72)     -  << "[\n]"
+2015-09-09 00:18:25,828 DEBUG [main] (    Wire.java:86)     -  << "{"success":true,"messages":{"error":[],"warning":[]},"message":{"format":"plain_text","subject":"_subject","body":"_body","recipients":{"user_27296":null},"author":"27296","timestamp":1441729098,"has_tokens":false,"mid":"471","thread_id":"471"}}"
+2015-09-09 00:18:25,828 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-09 00:18:25,828 DEBUG [main] (    Wire.java:72)     -  << "0[\r][\n]"
+2015-09-09 00:18:25,843 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-09 00:18:25,843 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@8c4ac0
+2015-09-09 00:18:25,843 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-09 00:18:25,984 DEBUG [Finalizer] (DefaultClientConnection.java:176)     - Connection 0.0.0.0:4957<->119.90.34.162:443 closed
+2015-09-09 00:18:25,984 DEBUG [Finalizer] (DefaultClientConnection.java:176)     - Connection 0.0.0.0:4947<->119.90.34.162:443 closed
+2015-09-09 00:18:56,625 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-09 00:18:56,812 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-09 00:18:57,015 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-09 00:18:57,031 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-09 00:18:57,031 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-09 00:18:57,031 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-09 00:18:57,031 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-09 00:18:57,031 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: POST /sso/v1/tickets HTTP/1.1
+2015-09-09 00:18:57,031 DEBUG [main] (    Wire.java:72)     -  >> "POST /sso/v1/tickets HTTP/1.1[\r][\n]"
+2015-09-09 00:18:57,031 DEBUG [main] (    Wire.java:72)     -  >> "Content-Length: 69[\r][\n]"
+2015-09-09 00:18:57,031 DEBUG [main] (    Wire.java:72)     -  >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2015-09-09 00:18:57,031 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-09 00:18:57,031 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-09 00:18:57,031 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-09 00:18:57,031 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-09 00:18:57,031 DEBUG [main] (DefaultClientConnection.java:272)     - >> POST /sso/v1/tickets HTTP/1.1
+2015-09-09 00:18:57,046 DEBUG [main] (DefaultClientConnection.java:275)     - >> Content-Length: 69
+2015-09-09 00:18:57,046 DEBUG [main] (DefaultClientConnection.java:275)     - >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2015-09-09 00:18:57,046 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-09 00:18:57,046 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-09 00:18:57,046 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-09 00:18:57,046 DEBUG [main] (    Wire.java:86)     -  >> "password=123123&service=http%3A%2F%2Fsit.ezijing.com&username=test201"
+2015-09-09 00:18:57,093 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 201 Created[\r][\n]"
+2015-09-09 00:18:57,093 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 08 Sep 2015 16:18:51 GMT[\r][\n]"
+2015-09-09 00:18:57,093 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2015-09-09 00:18:57,093 DEBUG [main] (    Wire.java:72)     -  << "Content-Length: 114[\r][\n]"
+2015-09-09 00:18:57,093 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-09 00:18:57,093 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2015-09-09 00:18:57,093 DEBUG [main] (    Wire.java:72)     -  << "Vary: Origin[\r][\n]"
+2015-09-09 00:18:57,093 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Credentials: true[\r][\n]"
+2015-09-09 00:18:57,109 DEBUG [main] (    Wire.java:72)     -  << "Location: http://earth.ezijing:8808/sso/v1/tickets/TGT-287-yXffre4GC37na2hMR9de0tXIBTXZXwYh4cwnOTAV1Zf2pMzwaD-cas[\r][\n]"
+2015-09-09 00:18:57,109 DEBUG [main] (    Wire.java:72)     -  << "Accept-Ranges: bytes[\r][\n]"
+2015-09-09 00:18:57,109 DEBUG [main] (    Wire.java:72)     -  << "Server: Noelios-Restlet-Engine/1.1..1[\r][\n]"
+2015-09-09 00:18:57,109 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-09 00:18:57,109 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Headers: X-Requested-With[\r][\n]"
+2015-09-09 00:18:57,109 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 201 Created
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 201 Created
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 08 Sep 2015 16:18:51 GMT
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json;charset=UTF-8
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Length: 114
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Origin: *
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:259)     - << Vary: Origin
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Credentials: true
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:259)     - << Location: http://earth.ezijing:8808/sso/v1/tickets/TGT-287-yXffre4GC37na2hMR9de0tXIBTXZXwYh4cwnOTAV1Zf2pMzwaD-cas
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:259)     - << Accept-Ranges: bytes
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: Noelios-Restlet-Engine/1.1..1
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Headers: X-Requested-With
+2015-09-09 00:18:57,109 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-09 00:18:57,125 DEBUG [main] (    Wire.java:86)     -  << "{"data":{"tgt_id":"TGT-287-yXffre4GC37na2hMR9de0tXIBTXZXwYh4cwnOTAV1Zf2pMzwaD-cas"},"errorCode":200,"errorMsg":""}"
+2015-09-09 00:18:57,125 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@275bef
+2015-09-09 00:18:57,125 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-09 00:18:57,281 INFO  [main] (GetThread.java:38)     - Test Case is : getThreadNormal
+2015-09-09 00:18:58,312 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-09 00:18:58,312 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-09 00:18:58,390 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-09 00:18:58,390 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-09 00:18:58,390 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-09 00:18:58,390 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-09 00:18:58,390 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-09 00:18:58,390 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: GET /web/api/thread?thread=469&body=testgetthread HTTP/1.1
+2015-09-09 00:18:58,390 DEBUG [main] (    Wire.java:72)     -  >> "GET /web/api/thread?thread=469&body=testgetthread HTTP/1.1[\r][\n]"
+2015-09-09 00:18:58,390 DEBUG [main] (    Wire.java:72)     -  >> "token: TGT-287-yXffre4GC37na2hMR9de0tXIBTXZXwYh4cwnOTAV1Zf2pMzwaD-cas[\r][\n]"
+2015-09-09 00:18:58,390 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-09 00:18:58,390 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-09 00:18:58,390 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-09 00:18:58,390 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-09 00:18:58,390 DEBUG [main] (DefaultClientConnection.java:272)     - >> GET /web/api/thread?thread=469&body=testgetthread HTTP/1.1
+2015-09-09 00:18:58,390 DEBUG [main] (DefaultClientConnection.java:275)     - >> token: TGT-287-yXffre4GC37na2hMR9de0tXIBTXZXwYh4cwnOTAV1Zf2pMzwaD-cas
+2015-09-09 00:18:58,390 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-09 00:18:58,390 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-09 00:18:58,390 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-09 00:18:59,968 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 200 OK[\r][\n]"
+2015-09-09 00:18:59,968 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 08 Sep 2015 16:18:54 GMT[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Transfer-Encoding: chunked[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Vary: Origin[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Server: nginx/1.6.0[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "X-Powered-By: PHP/5.6.4[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "X-Drupal-authCache: MISS[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "WS: 0.5[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Expires: Sun, 19 Nov 1978 05:00:00 GMT[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Last-Modified: Tue, 08 Sep 2015 16:18:52 +0000[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "ETag: "1441729132"[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Vary: Accept[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Set-Cookie: aceuser=test201; expires=Thu, 01-Oct-2015 19:52:12 GMT; Max-Age=1999998; path=/; domain=.ezijing.com[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "Access-Control-Allow-Headers: X-Requested-With[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-09 00:18:59,984 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 200 OK
+2015-09-09 00:18:59,984 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 200 OK
+2015-09-09 00:18:59,984 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 08 Sep 2015 16:18:54 GMT
+2015-09-09 00:18:59,984 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json
+2015-09-09 00:18:59,984 DEBUG [main] (DefaultClientConnection.java:259)     - << Transfer-Encoding: chunked
+2015-09-09 00:18:59,984 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Origin: *
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << Vary: Origin
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: nginx/1.6.0
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Powered-By: PHP/5.6.4
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Drupal-authCache: MISS
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << WS: 0.5
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << Expires: Sun, 19 Nov 1978 05:00:00 GMT
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << Last-Modified: Tue, 08 Sep 2015 16:18:52 +0000
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << ETag: "1441729132"
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << Vary: Accept
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << Set-Cookie: aceuser=test201; expires=Thu, 01-Oct-2015 19:52:12 GMT; Max-Age=1999998; path=/; domain=.ezijing.com
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-09 00:19:00,000 DEBUG [main] (DefaultClientConnection.java:259)     - << Access-Control-Allow-Headers: X-Requested-With
+2015-09-09 00:19:00,046 DEBUG [main] (ResponseProcessCookies.java:117)     - Cookie accepted [aceuser="test201", version:0, domain:.ezijing.com, path:/, expiry:Fri Oct 02 03:52:12 CST 2015]
+2015-09-09 00:19:00,046 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-09 00:19:00,046 DEBUG [main] (    Wire.java:72)     -  << "156[\r][\n]"
+2015-09-09 00:19:00,046 DEBUG [main] (    Wire.java:72)     -  << "[\n]"
+2015-09-09 00:19:00,046 DEBUG [main] (    Wire.java:86)     -  << "[{"thread_id":"471","subject":"_subject","last_updated":"1441729098","has_tokens":"0","is_new":"1","participants":null,"uid":"27296","picture":"/user.jpg","body":"_body"},{"thread_id":"469","subject":"_subject","last_updated":"1441728362","has_tokens":"0","is_new":"2","participants":null,"uid":"27296","picture":"/user.jpg","body":"_body"}]"
+2015-09-09 00:19:00,046 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-09 00:19:00,046 DEBUG [main] (    Wire.java:72)     -  << "0[\r][\n]"
+2015-09-09 00:19:00,046 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-09 00:19:00,046 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@8c4ac0
+2015-09-09 00:19:00,062 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-09 00:19:00,218 DEBUG [Finalizer] (DefaultClientConnection.java:176)     - Connection 0.0.0.0:1197<->119.90.34.162:443 closed
+2015-09-09 00:19:00,218 DEBUG [Finalizer] (DefaultClientConnection.java:176)     - Connection 0.0.0.0:1184<->119.90.34.162:443 closed
+2015-09-09 22:42:32,578 INFO  [main] (GetMessage.java:39)     - Test Case is : getMessageNormal
+2015-09-09 23:08:48,687 INFO  [main] (PostMessage.java:40)     - Test Case is : createMessageNormal
+2015-09-09 23:33:08,765 INFO  [main] (GetMessageId.java:39)     - Test Case is : createMessageNormal
+2015-09-09 23:34:33,281 INFO  [main] (GetThreadId.java:48)     - Test Case is : getThreadIdNormal
+2015-09-09 23:35:19,765 INFO  [main] (GetMessageId.java:39)     - Test Case is : createMessageNormal
+2015-09-09 23:36:59,062 INFO  [main] (GetMessageId.java:45)     - Test Case is : createMessageNormal
+2015-09-09 23:38:17,765 INFO  [main] (GetMessageId.java:45)     - Test Case is : createMessageNormal
+2015-09-09 23:39:54,609 INFO  [main] (GetMessageId.java:45)     - Test Case is : getMessageIdNormal
+2015-09-09 23:44:24,656 INFO  [main] (PutMessageId.java:44)     - Test Case is : getMessageIdNormal
+2015-09-09 23:44:59,203 INFO  [main] (PutMessageId.java:44)     - Test Case is : getMessageIdNormal
+2015-09-09 23:45:45,171 INFO  [main] (PutMessageId.java:44)     - Test Case is : getMessageIdNormal
+2015-09-09 23:49:36,859 INFO  [main] (PutMessageId.java:44)     - Test Case is : getMessageIdNormal
+2015-09-09 23:49:55,687 INFO  [main] (PutMessageId.java:44)     - Test Case is : getMessageIdNormal
+2015-09-09 23:49:57,984 INFO  [main] (PutMessageId.java:52)     - Test Case is : messageNoLogin
+2015-09-09 23:54:02,390 INFO  [main] (DeleteMessageID.java:45)     - Test Case is : delMessageIdNormal
+2015-09-10 00:01:04,687 INFO  [main] (GetOrderTn.java:40)     - Test Case is : orderNormal
+2015-09-10 00:01:07,750 INFO  [main] (GetOrderTn.java:49)     - Test Case is : getTn
+2015-09-10 00:01:50,250 INFO  [main] (GetOrderTn.java:40)     - Test Case is : orderNormal
+2015-09-10 00:01:52,765 INFO  [main] (GetOrderTn.java:49)     - Test Case is : getTn
+2015-09-10 00:03:00,812 INFO  [main] (GetOrderTn.java:40)     - Test Case is : orderNormal
+2015-09-10 00:03:03,375 INFO  [main] (GetOrderTn.java:49)     - Test Case is : getTn
+2015-09-10 00:09:12,609 INFO  [main] (GetOrderTn.java:40)     - Test Case is : orderNormal
+2015-09-10 00:09:38,140 INFO  [main] (GetOrderTn.java:40)     - Test Case is : orderNormal
+2015-09-10 00:09:40,750 INFO  [main] (GetOrderTn.java:49)     - Test Case is : getTn
+2015-09-10 00:10:56,734 INFO  [main] (GetOrderTn.java:41)     - Test Case is : getTn
+2015-09-12 22:41:12,250 INFO  [main] (Getsubscribe.java:54)     - Test Case is : getSubscribeormal
+2015-09-12 22:42:04,140 INFO  [main] (GetSubscribed.java:54)     - Test Case is : getSubscribedNormal
+2015-09-12 22:51:40,593 INFO  [main] (GetSubscribed.java:54)     - Test Case is : getSubscribedNormal
+2015-09-12 22:52:03,765 INFO  [main] (Getsubscribe.java:59)     - Test Case is : getSubscribeormal
+2015-09-12 23:02:57,312 INFO  [main] (GetUnsubscribe.java:54)     - Test Case is : getUnsubscribeNormal
+2015-09-12 23:04:43,765 INFO  [main] (PostJudge.java:49)     - Test Case is : courseJudge
+2015-09-12 23:04:44,640 INFO  [main] (PostJudge.java:59)     - Test Case is : courseSubscribe
+2015-09-12 23:27:46,171 INFO  [main] (PostQuestion.java:39)     - Test Case is : createQuestionNormal
+2015-09-12 23:29:17,328 INFO  [main] (PostQuestion.java:39)     - Test Case is : createQuestionNormal
+2015-09-12 23:29:39,187 INFO  [main] (PostQuestion.java:39)     - Test Case is : createQuestionNormal
+2015-09-12 23:30:08,359 INFO  [main] (PostQuestion.java:39)     - Test Case is : createQuestionNormal
+2015-09-12 23:31:08,015 INFO  [main] (PostAnswer.java:34)     - Test Case is : createAnswerNormal
+2015-09-12 23:40:48,531 INFO  [main] (PostQuestion.java:31)     - Test Case is : createQuestionNormal
+2015-09-12 23:42:04,390 INFO  [main] (GetQuestion.java:36)     - Test Case is : createQuestionNormal
+2015-09-12 23:42:41,609 INFO  [main] (GetQuestion.java:36)     - Test Case is : createQuestionNormal
+2015-09-13 00:33:49,140 INFO  [main] (DeleteTicketTGT.java:48)     - Test Case is : DeleteTicketTGT.registerUser
+2015-09-13 00:33:49,546 INFO  [main] (DeleteTicketTGT.java:67)     - Test Case is : PostTickets
+2015-09-13 00:33:49,687 INFO  [main] (DeleteTicketTGT.java:85)     - Test Case is : PostTicketTGT
+2015-09-13 00:33:49,828 INFO  [main] (DeleteUser.java:51)     - Test Case is : DeleteUser.registerUser
+2015-09-13 00:33:50,250 INFO  [main] ( GetUser.java:51)     - Test Case is : registerUser
+2015-09-13 00:33:52,546 INFO  [main] ( PutUser.java:51)     - Test Case is : registerUser
+2015-09-13 00:33:53,156 INFO  [TestNGInvoker-deleteUserNoId()] (DeleteUser.java:68)     - Test Case is : deleteUserNoId
+2015-09-13 00:33:53,359 INFO  [TestNGInvoker-deleteUserNormal()] (DeleteUser.java:79)     - Test Case is : deleteUserNormal
+2015-09-13 00:33:53,484 INFO  [TestNGInvoker-deleteUserNoExist()] (DeleteUser.java:90)     - Test Case is : deleteUserNoExist
+2015-09-13 00:33:53,656 INFO  [TestNGInvoker-getUserNormal()] ( GetUser.java:69)     - Test Case is : getUserNormal
+2015-09-13 00:33:53,843 INFO  [TestNGInvoker-getUserNoId()] ( GetUser.java:81)     - Test Case is : getUserNoId
+2015-09-13 00:33:54,843 INFO  [TestNGInvoker-modifyUserInfoNormal()] ( PutUser.java:68)     - Test Case is : modifyUserInfoNormal
+2015-09-13 00:33:54,968 INFO  [TestNGInvoker-modifyUserInfoNoId()] ( PutUser.java:79)     - Test Case is : modifyUserInfoNoId
+2015-09-13 00:33:55,046 INFO  [TestNGInvoker-modifyUserInfoNoOther()] ( PutUser.java:91)     - Test Case is : modifyUserInfoNoOther
+2015-09-13 00:33:55,312 INFO  [TestNGInvoker-mobileChannelNoraml()] (GetChannel.java:50)     - Test Case is : mobileChannelNoraml
+2015-09-13 00:33:55,515 INFO  [TestNGInvoker-ajaxpushPlayerNodata()] (GetPlayerAjaxPush.java:49)     - Test Case is : ajaxpushPlayerNodata
+2015-09-13 00:33:55,687 INFO  [TestNGInvoker-ajaxpushPlayerNormal()] (GetPlayerAjaxPush.java:33)     - Test Case is : ajaxpushPlayerNormal
+2015-09-13 00:33:55,875 INFO  [TestNGInvoker-ajaxpushPlayerNosid()] (GetPlayerAjaxPush.java:115)     - Test Case is : ajaxpushPlayerNosid
+2015-09-13 00:33:56,062 INFO  [TestNGInvoker-ajaxpushPlayerNotd()] (GetPlayerAjaxPush.java:66)     - Test Case is : ajaxpushPlayerNotd
+2015-09-13 00:33:56,281 INFO  [TestNGInvoker-ajaxpushPlayerNots()] (GetPlayerAjaxPush.java:82)     - Test Case is : ajaxpushPlayerNots
+2015-09-13 00:33:56,437 INFO  [TestNGInvoker-ajaxpushPlayerNovid()] (GetPlayerAjaxPush.java:98)     - Test Case is : ajaxpushPlayerNovid
+2015-09-13 00:33:56,640 INFO  [TestNGInvoker-lastPlayedNormal()] (GetLastPlayed.java:35)     - Test Case is : lastPlayedNormal
+2015-09-13 00:33:56,859 INFO  [TestNGInvoker-deleteTGT()] (DeleteTicketTGT.java:99)     - Test Case is : deleteTGT
+2015-09-13 00:33:57,218 INFO  [TestNGInvoker-mobileSliderNormal()] (GetSlider.java:45)     - Test Case is : mobileSliderNormal
+2015-09-13 00:33:57,437 INFO  [TestNGInvoker-ajaxreviewPlayerNoCostTime()] (GetPlayerAjaxReview.java:122)     - Test Case is : ajaxreviewPlayerNoCostTime
+2015-09-13 00:33:57,656 INFO  [TestNGInvoker-ajaxreviewPlayerNoDeviceType()] (GetPlayerAjaxReview.java:88)     - Test Case is : ajaxreviewPlayerNoDeviceType
+2015-09-13 00:33:57,875 INFO  [TestNGInvoker-ajaxreviewPlayerNoQuiid()] (GetPlayerAjaxReview.java:105)     - Test Case is : ajaxreviewPlayerNoQuiid
+2015-09-13 00:33:58,078 INFO  [TestNGInvoker-ajaxreviewPlayerNoResult()] (GetPlayerAjaxReview.java:71)     - Test Case is : ajaxreviewPlayerNoResult
+2015-09-13 00:33:58,296 INFO  [TestNGInvoker-ajaxreviewPlayerNoSeriesid()] (GetPlayerAjaxReview.java:139)     - Test Case is : ajaxreviewPlayerNoSeriesid
+2015-09-13 00:33:58,500 INFO  [TestNGInvoker-ajaxreviewPlayerNoVideoid()] (GetPlayerAjaxReview.java:54)     - Test Case is : ajaxreviewPlayerNoVideoid
+2015-09-13 00:33:58,703 INFO  [TestNGInvoker-ajaxreviewPlayerNormal()] (GetPlayerAjaxReview.java:37)     - Test Case is : ajaxreviewPlayerNormal
+2015-09-13 00:33:58,937 INFO  [TestNGInvoker-videoAjaxMarkNoVideoid()] (GetVideoAjaxMark.java:50)     - Test Case is : videoAjaxMarkNoVideoid
+2015-09-13 00:33:59,109 INFO  [TestNGInvoker-videoAjaxMarkNomark()] (GetVideoAjaxMark.java:64)     - Test Case is : videoAjaxMarkNomark
+2015-09-13 00:33:59,296 INFO  [TestNGInvoker-videoAjaxMarkNormal()] (GetVideoAjaxMark.java:36)     - Test Case is : videoAjaxMarkNormal
+2015-09-13 00:33:59,765 INFO  [TestNGInvoker-mobileSwitchNoraml()] (GetSwitch.java:36)     - Test Case is : mobileChannelNoraml
+2015-09-13 00:33:59,937 INFO  [TestNGInvoker-pushPlayerNormal()] (PostPlayerPush.java:40)     - Test Case is : pushPlayerNormal
+2015-09-13 00:34:00,937 INFO  [TestNGInvoker-pushPlayerNots()] (PostPlayerPush.java:50)     - Test Case is : pushPlayerNots
+2015-09-13 00:34:01,296 INFO  [TestNGInvoker-pushPlayerNovid()] (PostPlayerPush.java:61)     - Test Case is : pushPlayerNovid
+2015-09-13 00:34:01,531 INFO  [TestNGInvoker-pushPlayerNovsid()] (PostPlayerPush.java:71)     - Test Case is : pushPlayerNovsid
+2015-09-13 00:34:01,781 INFO  [TestNGInvoker-testVideomarkNormal()] (GetVideoIsMark.java:38)     - Test Case is : videoAjaxMarkNormal
+2015-09-13 00:34:01,937 INFO  [TestNGInvoker-testVideomarkNovideoid()] (GetVideoIsMark.java:53)     - Test Case is : videoAjaxMarkNormal
+2015-09-13 00:34:02,078 INFO  [TestNGInvoker-getRole()] ( GetRole.java:52)     - Test Case is : getRole
+2015-09-13 00:34:02,234 INFO  [TestNGInvoker-getRoleNoId()] ( GetRole.java:66)     - Test Case is : getRoleNoId
+2015-09-13 00:34:02,593 INFO  [TestNGInvoker-playerReviewNocosttime()] (PostPlayerReview.java:84)     - Test Case is : playerReviewNocosttime
+2015-09-13 00:34:02,921 INFO  [TestNGInvoker-playerReviewNodevicetype()] (PostPlayerReview.java:66)     - Test Case is : playerReviewNodevicetype
+2015-09-13 00:34:03,171 INFO  [TestNGInvoker-playerReviewNoquizid()] (PostPlayerReview.java:75)     - Test Case is : playerReviewNoquizid
+2015-09-13 00:34:03,390 INFO  [TestNGInvoker-playerReviewNoresult()] (PostPlayerReview.java:57)     - Test Case is : playerReviewNoresult
+2015-09-13 00:34:03,640 INFO  [TestNGInvoker-playerReviewNormal()] (PostPlayerReview.java:40)     - Test Case is : playerReviewNormal
+2015-09-13 00:34:03,906 INFO  [TestNGInvoker-playerReviewNoseriesid()] (PostPlayerReview.java:93)     - Test Case is : playerReviewNoseriesid
+2015-09-13 00:34:04,140 INFO  [TestNGInvoker-playerReviewNovideoid()] (PostPlayerReview.java:48)     - Test Case is : playerReviewNovideoid
+2015-09-13 00:34:04,328 INFO  [TestNGInvoker-videoProgressNormal()] (GetVideoProgress.java:37)     - Test Case is : videoProgressNormal
+2015-09-13 00:34:04,515 INFO  [TestNGInvoker-videoProgressNovideoid()] (GetVideoProgress.java:55)     - Test Case is : videoProgressNovideoid
+2015-09-13 00:34:04,843 INFO  [TestNGInvoker-testVideomarkNormal()] (PostVideoMarks.java:39)     - Test Case is : testVideomarkNormal
+2015-09-13 00:34:05,031 INFO  [TestNGInvoker-testVideomarkNovideoid()] (PostVideoMarks.java:54)     - Test Case is : testVideomarkNovideoid
+2015-09-13 00:34:05,187 INFO  [TestNGInvoker-testVideomarkNovideomark()] (PostVideoMarks.java:69)     - Test Case is : testVideomarkNovideomark
+2015-09-13 00:34:05,375 INFO  [TestNGInvoker-postRegisterUserNoEmail()] (PostRegister.java:102)     - Test Case is : postRegisterUserNoEmail
+2015-09-13 00:34:05,500 INFO  [TestNGInvoker-postRegisterUserNoPassword()] (PostRegister.java:84)     - Test Case is : postRegisterUserNoPassword
+2015-09-13 00:34:05,656 INFO  [TestNGInvoker-postRegisterUserNoUsername()] (PostRegister.java:66)     - Test Case is : postRegisterUserNoUsername
+2015-09-13 00:34:05,796 INFO  [TestNGInvoker-postRegisterUserNormal()] (PostRegister.java:49)     - Test Case is : postRegisterUserNormal
+2015-09-13 00:34:06,234 INFO  [TestNGInvoker-testRegisterCheckExistUser()] (PostRegisterCheck.java:67)     - Test Case is : testRegisterCheckExistUser
+2015-09-13 00:34:06,375 INFO  [TestNGInvoker-testRegisterCheckNoExistUser()] (PostRegisterCheck.java:78)     - Test Case is : testRegisterCheckNoExistUser
+2015-09-13 00:34:06,765 INFO  [TestNGInvoker-postProxyValidateNormal()] (PostRegProxyValidate.java:88)     - Test Case is : postProxyValidateNormal
+2015-09-13 00:34:07,250 INFO  [TestNGInvoker-getTGTNoPassword()] (PostTickets.java:85)     - Test Case is : getTGTNoPassword
+2015-09-13 00:34:07,421 INFO  [TestNGInvoker-getTGTNoUsername()] (PostTickets.java:72)     - Test Case is : getTGTNoUsername
+2015-09-13 00:34:07,546 INFO  [TestNGInvoker-getTGTNormal()] (PostTickets.java:56)     - Test Case is : getTGTNormal
+2015-09-13 00:34:07,718 INFO  [TestNGInvoker-getTGTWrongPassword()] (PostTickets.java:113)     - Test Case is : getTGTWrongPassword
+2015-09-13 00:34:07,875 INFO  [TestNGInvoker-getTGTWrongUsername()] (PostTickets.java:98)     - Test Case is : getTGTWrongUsername
+2015-09-13 00:35:16,625 INFO  [main] (DeleteTicketTGT.java:48)     - Test Case is : DeleteTicketTGT.registerUser
+2015-09-13 00:35:17,812 INFO  [main] (DeleteTicketTGT.java:67)     - Test Case is : PostTickets
+2015-09-13 00:35:17,937 INFO  [main] (DeleteTicketTGT.java:85)     - Test Case is : PostTicketTGT
+2015-09-13 00:35:18,062 INFO  [main] (DeleteUser.java:51)     - Test Case is : DeleteUser.registerUser
+2015-09-13 00:35:20,406 INFO  [main] ( GetUser.java:51)     - Test Case is : registerUser
+2015-09-13 00:35:24,328 INFO  [main] ( PutUser.java:51)     - Test Case is : registerUser
+2015-09-13 00:35:24,781 INFO  [TestNGInvoker-deleteTGT()] (DeleteTicketTGT.java:99)     - Test Case is : deleteTGT
+2015-09-13 00:35:25,265 INFO  [TestNGInvoker-getTGTNoPassword()] (PostTickets.java:85)     - Test Case is : getTGTNoPassword
+2015-09-13 00:35:25,390 INFO  [TestNGInvoker-getTGTNoUsername()] (PostTickets.java:72)     - Test Case is : getTGTNoUsername
+2015-09-13 00:35:25,515 INFO  [TestNGInvoker-getTGTNormal()] (PostTickets.java:56)     - Test Case is : getTGTNormal
+2015-09-13 00:35:25,656 INFO  [TestNGInvoker-getTGTWrongPassword()] (PostTickets.java:113)     - Test Case is : getTGTWrongPassword
+2015-09-13 00:35:25,781 INFO  [TestNGInvoker-getTGTWrongUsername()] (PostTickets.java:98)     - Test Case is : getTGTWrongUsername
+2015-09-13 00:35:25,921 INFO  [TestNGInvoker-mobileChannelNoraml()] (GetChannel.java:50)     - Test Case is : mobileChannelNoraml
+2015-09-13 00:35:26,250 INFO  [TestNGInvoker-ajaxpushPlayerNodata()] (GetPlayerAjaxPush.java:49)     - Test Case is : ajaxpushPlayerNodata
+2015-09-13 00:35:26,437 INFO  [TestNGInvoker-ajaxpushPlayerNormal()] (GetPlayerAjaxPush.java:33)     - Test Case is : ajaxpushPlayerNormal
+2015-09-13 00:35:26,609 INFO  [TestNGInvoker-ajaxpushPlayerNosid()] (GetPlayerAjaxPush.java:115)     - Test Case is : ajaxpushPlayerNosid
+2015-09-13 00:35:26,796 INFO  [TestNGInvoker-ajaxpushPlayerNotd()] (GetPlayerAjaxPush.java:66)     - Test Case is : ajaxpushPlayerNotd
+2015-09-13 00:35:27,015 INFO  [TestNGInvoker-ajaxpushPlayerNots()] (GetPlayerAjaxPush.java:82)     - Test Case is : ajaxpushPlayerNots
+2015-09-13 00:35:27,203 INFO  [TestNGInvoker-ajaxpushPlayerNovid()] (GetPlayerAjaxPush.java:98)     - Test Case is : ajaxpushPlayerNovid
+2015-09-13 00:35:27,515 INFO  [TestNGInvoker-lastPlayedNormal()] (GetLastPlayed.java:35)     - Test Case is : lastPlayedNormal
+2015-09-13 00:35:29,671 INFO  [TestNGInvoker-deleteUserNoId()] (DeleteUser.java:68)     - Test Case is : deleteUserNoId
+2015-09-13 00:35:31,859 INFO  [TestNGInvoker-deleteUserNormal()] (DeleteUser.java:79)     - Test Case is : deleteUserNormal
+2015-09-13 00:35:32,171 INFO  [TestNGInvoker-deleteUserNoExist()] (DeleteUser.java:90)     - Test Case is : deleteUserNoExist
+2015-09-13 00:35:32,765 INFO  [TestNGInvoker-mobileSliderNormal()] (GetSlider.java:45)     - Test Case is : mobileSliderNormal
+2015-09-13 00:35:33,125 INFO  [TestNGInvoker-ajaxreviewPlayerNoCostTime()] (GetPlayerAjaxReview.java:122)     - Test Case is : ajaxreviewPlayerNoCostTime
+2015-09-13 00:35:33,328 INFO  [TestNGInvoker-ajaxreviewPlayerNoDeviceType()] (GetPlayerAjaxReview.java:88)     - Test Case is : ajaxreviewPlayerNoDeviceType
+2015-09-13 00:35:33,515 INFO  [TestNGInvoker-ajaxreviewPlayerNoQuiid()] (GetPlayerAjaxReview.java:105)     - Test Case is : ajaxreviewPlayerNoQuiid
+2015-09-13 00:35:33,703 INFO  [TestNGInvoker-ajaxreviewPlayerNoResult()] (GetPlayerAjaxReview.java:71)     - Test Case is : ajaxreviewPlayerNoResult
+2015-09-13 00:35:33,937 INFO  [TestNGInvoker-ajaxreviewPlayerNoSeriesid()] (GetPlayerAjaxReview.java:139)     - Test Case is : ajaxreviewPlayerNoSeriesid
+2015-09-13 00:35:34,125 INFO  [TestNGInvoker-ajaxreviewPlayerNoVideoid()] (GetPlayerAjaxReview.java:54)     - Test Case is : ajaxreviewPlayerNoVideoid
+2015-09-13 00:35:34,281 INFO  [TestNGInvoker-ajaxreviewPlayerNormal()] (GetPlayerAjaxReview.java:37)     - Test Case is : ajaxreviewPlayerNormal
+2015-09-13 00:35:34,515 INFO  [TestNGInvoker-modifyUserInfoNormal()] ( PutUser.java:68)     - Test Case is : modifyUserInfoNormal
+2015-09-13 00:35:34,687 INFO  [TestNGInvoker-videoAjaxMarkNoVideoid()] (GetVideoAjaxMark.java:50)     - Test Case is : videoAjaxMarkNoVideoid
+2015-09-13 00:35:34,843 INFO  [TestNGInvoker-videoAjaxMarkNomark()] (GetVideoAjaxMark.java:64)     - Test Case is : videoAjaxMarkNomark
+2015-09-13 00:35:34,984 INFO  [TestNGInvoker-videoAjaxMarkNormal()] (GetVideoAjaxMark.java:36)     - Test Case is : videoAjaxMarkNormal
+2015-09-13 00:35:35,156 INFO  [TestNGInvoker-modifyUserInfoNoId()] ( PutUser.java:79)     - Test Case is : modifyUserInfoNoId
+2015-09-13 00:35:35,265 INFO  [TestNGInvoker-modifyUserInfoNoOther()] ( PutUser.java:91)     - Test Case is : modifyUserInfoNoOther
+2015-09-13 00:35:35,328 INFO  [TestNGInvoker-getRole()] ( GetRole.java:52)     - Test Case is : getRole
+2015-09-13 00:35:35,437 INFO  [TestNGInvoker-getRoleNoId()] ( GetRole.java:66)     - Test Case is : getRoleNoId
+2015-09-13 00:35:35,843 INFO  [TestNGInvoker-mobileSwitchNoraml()] (GetSwitch.java:36)     - Test Case is : mobileChannelNoraml
+2015-09-13 00:35:35,968 INFO  [TestNGInvoker-pushPlayerNormal()] (PostPlayerPush.java:40)     - Test Case is : pushPlayerNormal
+2015-09-13 00:35:37,000 INFO  [TestNGInvoker-pushPlayerNots()] (PostPlayerPush.java:50)     - Test Case is : pushPlayerNots
+2015-09-13 00:35:37,328 INFO  [TestNGInvoker-pushPlayerNovid()] (PostPlayerPush.java:61)     - Test Case is : pushPlayerNovid
+2015-09-13 00:35:37,515 INFO  [TestNGInvoker-pushPlayerNovsid()] (PostPlayerPush.java:71)     - Test Case is : pushPlayerNovsid
+2015-09-13 00:35:37,750 INFO  [TestNGInvoker-testVideomarkNormal()] (GetVideoIsMark.java:38)     - Test Case is : videoAjaxMarkNormal
+2015-09-13 00:35:37,906 INFO  [TestNGInvoker-testVideomarkNovideoid()] (GetVideoIsMark.java:53)     - Test Case is : videoAjaxMarkNormal
+2015-09-13 00:35:38,062 INFO  [TestNGInvoker-getUserNormal()] ( GetUser.java:69)     - Test Case is : getUserNormal
+2015-09-13 00:35:38,203 INFO  [TestNGInvoker-getUserNoId()] ( GetUser.java:81)     - Test Case is : getUserNoId
+2015-09-13 00:35:38,546 INFO  [TestNGInvoker-playerReviewNocosttime()] (PostPlayerReview.java:84)     - Test Case is : playerReviewNocosttime
+2015-09-13 00:35:38,812 INFO  [TestNGInvoker-playerReviewNodevicetype()] (PostPlayerReview.java:66)     - Test Case is : playerReviewNodevicetype
+2015-09-13 00:35:39,078 INFO  [TestNGInvoker-playerReviewNoquizid()] (PostPlayerReview.java:75)     - Test Case is : playerReviewNoquizid
+2015-09-13 00:35:39,296 INFO  [TestNGInvoker-playerReviewNoresult()] (PostPlayerReview.java:57)     - Test Case is : playerReviewNoresult
+2015-09-13 00:35:39,531 INFO  [TestNGInvoker-playerReviewNormal()] (PostPlayerReview.java:40)     - Test Case is : playerReviewNormal
+2015-09-13 00:35:39,812 INFO  [TestNGInvoker-playerReviewNoseriesid()] (PostPlayerReview.java:93)     - Test Case is : playerReviewNoseriesid
+2015-09-13 00:35:40,062 INFO  [TestNGInvoker-playerReviewNovideoid()] (PostPlayerReview.java:48)     - Test Case is : playerReviewNovideoid
+2015-09-13 00:35:40,296 INFO  [TestNGInvoker-videoProgressNormal()] (GetVideoProgress.java:37)     - Test Case is : videoProgressNormal
+2015-09-13 00:35:40,468 INFO  [TestNGInvoker-videoProgressNovideoid()] (GetVideoProgress.java:55)     - Test Case is : videoProgressNovideoid
+2015-09-13 00:35:40,609 INFO  [TestNGInvoker-postRegisterUserNoEmail()] (PostRegister.java:102)     - Test Case is : postRegisterUserNoEmail
+2015-09-13 00:35:40,750 INFO  [TestNGInvoker-postRegisterUserNoPassword()] (PostRegister.java:84)     - Test Case is : postRegisterUserNoPassword
+2015-09-13 00:35:40,875 INFO  [TestNGInvoker-postRegisterUserNoUsername()] (PostRegister.java:66)     - Test Case is : postRegisterUserNoUsername
+2015-09-13 00:35:40,984 INFO  [TestNGInvoker-postRegisterUserNormal()] (PostRegister.java:49)     - Test Case is : postRegisterUserNormal
+2015-09-13 00:35:41,578 INFO  [TestNGInvoker-testVideomarkNormal()] (PostVideoMarks.java:39)     - Test Case is : testVideomarkNormal
+2015-09-13 00:35:41,734 INFO  [TestNGInvoker-testVideomarkNovideoid()] (PostVideoMarks.java:54)     - Test Case is : testVideomarkNovideoid
+2015-09-13 00:35:41,875 INFO  [TestNGInvoker-testVideomarkNovideomark()] (PostVideoMarks.java:69)     - Test Case is : testVideomarkNovideomark
+2015-09-13 00:35:42,015 INFO  [TestNGInvoker-testRegisterCheckExistUser()] (PostRegisterCheck.java:67)     - Test Case is : testRegisterCheckExistUser
+2015-09-13 00:35:42,140 INFO  [TestNGInvoker-testRegisterCheckNoExistUser()] (PostRegisterCheck.java:78)     - Test Case is : testRegisterCheckNoExistUser
+2015-09-13 00:35:42,546 INFO  [TestNGInvoker-postProxyValidateNormal()] (PostRegProxyValidate.java:88)     - Test Case is : postProxyValidateNormal
+2015-09-13 10:34:24,734 INFO  [main] (PostRegister.java:102)     - Test Case is : postRegisterUserNoEmail
+2015-09-13 10:34:26,578 INFO  [main] (PostRegister.java:84)     - Test Case is : postRegisterUserNoPassword
+2015-09-13 10:34:26,703 INFO  [main] (PostRegister.java:66)     - Test Case is : postRegisterUserNoUsername
+2015-09-13 10:34:26,828 INFO  [main] (PostRegister.java:49)     - Test Case is : postRegisterUserNormal
+2015-09-13 10:45:01,343 INFO  [main] (PostRegister.java:94)     - Test Case is : postRegisterUserNoEmail
+2015-09-13 10:45:03,109 INFO  [main] (PostRegister.java:78)     - Test Case is : postRegisterUserNoPassword
+2015-09-13 10:45:03,234 INFO  [main] (PostRegister.java:63)     - Test Case is : postRegisterUserNoUsername
+2015-09-13 10:45:03,359 INFO  [main] (PostRegister.java:49)     - Test Case is : postRegisterUserNormal
+2015-09-13 10:47:25,906 INFO  [main] (PostRegister.java:94)     - Test Case is : postRegisterUserNoEmail
+2015-09-13 10:47:26,796 INFO  [main] (PostRegister.java:78)     - Test Case is : postRegisterUserNoPassword
+2015-09-13 10:47:26,906 INFO  [main] (PostRegister.java:63)     - Test Case is : postRegisterUserNoUsername
+2015-09-13 10:47:27,031 INFO  [main] (PostRegister.java:49)     - Test Case is : postRegisterUserNormal
+2015-09-13 10:52:18,734 INFO  [main] (PostModifyPassword.java:48)     - Test Case is : postRegisterUserNormal
+2015-09-13 10:52:19,968 INFO  [main] (PostModifyPassword.java:66)     - Test Case is : testModifyPasswordNormal
+2015-09-13 10:52:20,109 INFO  [main] (PostModifyPassword.java:82)     - Test Case is : testResetPasswordNormal
+2015-09-13 10:52:20,250 INFO  [main] (PostModifyPassword.java:99)     - Test Case is : testModifyPasswordNoAction
+2015-09-13 10:52:20,375 INFO  [main] (PostModifyPassword.java:150)     - Test Case is : testModifyPasswordNoNewpassword
+2015-09-13 10:52:20,500 INFO  [main] (PostModifyPassword.java:117)     - Test Case is : testModifyPasswordNoUsername
+2015-09-13 10:52:20,640 INFO  [main] (PostModifyPassword.java:134)     - Test Case is : testModifyPasswordNopassword
+2015-09-13 10:52:20,750 INFO  [main] (PostModifyPassword.java:166)     - Test Case is : testResetPasswordNoAction
+2015-09-13 10:52:20,859 INFO  [main] (PostModifyPassword.java:218)     - Test Case is : testResetPasswordNoNewpassword
+2015-09-13 10:52:20,984 INFO  [main] (PostModifyPassword.java:200)     - Test Case is : testResetPasswordNoPassword
+2015-09-13 10:52:21,109 INFO  [main] (PostModifyPassword.java:182)     - Test Case is : testResetPasswordNoUsername
+2015-09-13 11:09:41,359 INFO  [main] (PostRegProxyValidate.java:86)     - Test Case is : postProxyValidateNormal
+2015-09-13 11:34:55,265 INFO  [main] (PostRegProxyValidate.java:79)     - Test Case is : postProxyValidateNormal
+2015-09-13 11:42:39,953 INFO  [main] (PostTickets.java:53)     - Test Case is : getTGTNormal
+2015-09-13 11:42:40,859 INFO  [main] (PostTickets.java:78)     - Test Case is : getTGTNoPassword
+2015-09-13 11:42:40,984 INFO  [main] (PostTickets.java:66)     - Test Case is : getTGTNoUsername
+2015-09-13 11:42:41,109 INFO  [main] (PostTickets.java:102)     - Test Case is : getTGTWrongPassword
+2015-09-13 11:42:41,250 INFO  [main] (PostTickets.java:90)     - Test Case is : getTGTWrongUsername
+2015-09-13 11:43:59,609 INFO  [main] (PostTickets.java:78)     - Test Case is : getTGTNoPassword
+2015-09-13 11:43:59,781 INFO  [main] (PostTickets.java:66)     - Test Case is : getTGTNoUsername
+2015-09-13 11:43:59,906 INFO  [main] (PostTickets.java:53)     - Test Case is : getTGTNormal
+2015-09-13 11:44:00,046 INFO  [main] (PostTickets.java:102)     - Test Case is : getTGTWrongPassword
+2015-09-13 11:44:00,171 INFO  [main] (PostTickets.java:90)     - Test Case is : getTGTWrongUsername
+2015-09-13 11:47:52,921 INFO  [main] (PostTickets.java:76)     - Test Case is : getTGTNoPassword
+2015-09-13 11:47:53,062 INFO  [main] (PostTickets.java:66)     - Test Case is : getTGTNoUsername
+2015-09-13 11:47:55,265 INFO  [main] (PostTickets.java:54)     - Test Case is : getTGTNormal
+2015-09-13 11:47:55,468 INFO  [main] (PostTickets.java:100)     - Test Case is : getTGTWrongPassword
+2015-09-13 11:47:55,578 INFO  [main] (PostTickets.java:88)     - Test Case is : getTGTWrongUsername
+2015-09-13 11:49:14,671 INFO  [main] (PostTickets.java:76)     - Test Case is : getTGTNoPassword
+2015-09-13 11:49:15,843 INFO  [main] (PostTickets.java:66)     - Test Case is : getTGTNoUsername
+2015-09-13 11:49:16,093 INFO  [main] (PostTickets.java:54)     - Test Case is : getTGTNormal
+2015-09-13 11:49:16,281 INFO  [main] (PostTickets.java:98)     - Test Case is : getTGTWrongPassword
+2015-09-13 11:49:16,484 INFO  [main] (PostTickets.java:87)     - Test Case is : getTGTWrongUsername
+2015-09-13 13:40:29,265 INFO  [main] (PostTickets.java:76)     - Test Case is : getTGTNoPassword
+2015-09-13 13:40:30,437 INFO  [main] (PostTickets.java:66)     - Test Case is : getTGTNoUsername
+2015-09-13 13:40:30,703 INFO  [main] (PostTickets.java:54)     - Test Case is : getTGTNormal
+2015-09-13 13:40:30,890 INFO  [main] (PostTickets.java:97)     - Test Case is : getTGTWrongPassword
+2015-09-13 13:40:31,062 INFO  [main] (PostTickets.java:86)     - Test Case is : getTGTWrongUsername
+2015-09-13 13:41:13,062 INFO  [main] (PostTickets.java:76)     - Test Case is : getTGTNoPassword
+2015-09-13 13:41:14,375 INFO  [main] (PostTickets.java:66)     - Test Case is : getTGTNoUsername
+2015-09-13 13:41:14,593 INFO  [main] (PostTickets.java:54)     - Test Case is : getTGTNormal
+2015-09-13 13:58:31,234 INFO  [main] (PostTickets.java:76)     - Test Case is : getTGTNoPassword
+2015-09-13 13:58:32,406 INFO  [main] (PostTickets.java:66)     - Test Case is : getTGTNoUsername
+2015-09-13 13:58:32,656 INFO  [main] (PostTickets.java:54)     - Test Case is : getTGTNormal
+2015-09-13 13:58:32,859 INFO  [main] (PostTickets.java:97)     - Test Case is : getTGTWrongPassword
+2015-09-13 13:58:33,046 INFO  [main] (PostTickets.java:86)     - Test Case is : getTGTWrongUsername
+2015-09-13 13:59:47,468 INFO  [main] (PostUserInfo.java:37)     - Test Case is : postUserInfo
+2015-09-13 14:00:50,015 INFO  [main] (PostUserInfo.java:37)     - Test Case is : postUserInfo
+2015-09-13 14:08:24,671 INFO  [main] (PostMessage.java:40)     - Test Case is : createMessageNormal
+2015-09-13 14:48:20,125 INFO  [main] (PostRegProxyValidate.java:79)     - Test Case is : postProxyValidateNormal
+2015-09-13 15:04:50,109 INFO  [main] (GetPlanView.java:46)     - Test Case is : createPackage
+2015-09-13 15:04:51,421 INFO  [main] (GetPlanView.java:53)     - Test Case is : createPlan
+2015-09-13 15:04:51,703 INFO  [main] (GetPlanView.java:62)     - Test Case is : validatePlan
+2015-09-13 15:04:52,015 INFO  [main] (GetPlanView.java:71)     - Test Case is : viewPlan
+2015-09-13 15:07:02,203 INFO  [main] (GetPlanView.java:46)     - Test Case is : createPackage
+2015-09-13 15:07:03,421 INFO  [main] (GetPlanView.java:53)     - Test Case is : createPlan
+2015-09-13 15:07:03,734 INFO  [main] (GetPlanView.java:62)     - Test Case is : validatePlan
+2015-09-13 15:07:04,046 INFO  [main] (GetPlanView.java:71)     - Test Case is : viewPlan
+2015-09-13 15:07:36,937 INFO  [main] (GetPlanAjaxUpdate.java:38)     - Test Case is : createPackage
+2015-09-13 15:07:38,171 INFO  [main] (GetPlanAjaxUpdate.java:45)     - Test Case is : createPlan
+2015-09-13 15:07:38,500 INFO  [main] (GetPlanAjaxUpdate.java:54)     - Test Case is : validatePlan
+2015-09-13 15:07:38,781 INFO  [main] (GetPlanAjaxUpdate.java:62)     - Test Case is : viewPlan
+2015-09-13 15:07:39,062 INFO  [main] (GetPlanAjaxUpdate.java:68)     - Test Case is : ajaxUpdatePlan
+2015-09-13 15:13:10,609 INFO  [main] (PostPlanUpdate.java:43)     - Test Case is : createPackage
+2015-09-13 15:13:11,843 INFO  [main] (PostPlanUpdate.java:50)     - Test Case is : createPlan
+2015-09-13 15:13:12,171 INFO  [main] (PostPlanUpdate.java:59)     - Test Case is : validatePlan
+2015-09-13 15:13:12,453 INFO  [main] (PostPlanUpdate.java:67)     - Test Case is : viewPlan
+2015-09-13 15:13:12,750 INFO  [main] (PostPlanUpdate.java:74)     - Test Case is : updatePlan
+2015-09-13 15:13:45,843 INFO  [main] (GetPackageAjaxCreate.java:35)     - Test Case is : getAjaxCreatePackageNormal
+2015-09-13 15:14:13,625 INFO  [main] (GetPackageAjaxCreate.java:35)     - Test Case is : getAjaxCreatePackageNormal
+2015-09-13 15:16:25,781 INFO  [main] (GetPackageAjaxCreate.java:35)     - Test Case is : getAjaxCreatePackageNormal
+2015-09-13 15:18:34,625 INFO  [main] (GetPackageAjaxCreate.java:35)     - Test Case is : getAjaxCreatePackageNormal
+2015-09-13 15:25:37,453 INFO  [main] (GetPackageAjaxCreate.java:35)     - Test Case is : getAjaxCreatePackageNormal
+2015-09-13 15:37:06,703 INFO  [main] (GetPackageAjaxCreate.java:35)     - Test Case is : getAjaxCreatePackageNormal
+2015-09-13 15:37:27,093 INFO  [main] (PostPlanUpdate.java:43)     - Test Case is : createPackage
+2015-09-13 15:37:28,359 INFO  [main] (PostPlanUpdate.java:50)     - Test Case is : createPlan
+2015-09-13 15:37:28,625 INFO  [main] (PostPlanUpdate.java:59)     - Test Case is : validatePlan
+2015-09-13 15:37:28,921 INFO  [main] (PostPlanUpdate.java:67)     - Test Case is : viewPlan
+2015-09-13 15:37:29,203 INFO  [main] (PostPlanUpdate.java:74)     - Test Case is : updatePlan
+2015-09-13 15:38:41,859 INFO  [main] (PostPlayerReview.java:84)     - Test Case is : playerReviewNocosttime
+2015-09-13 15:38:43,062 INFO  [main] (PostPlayerReview.java:66)     - Test Case is : playerReviewNodevicetype
+2015-09-13 15:38:43,359 INFO  [main] (PostPlayerReview.java:75)     - Test Case is : playerReviewNoquizid
+2015-09-13 15:38:43,625 INFO  [main] (PostPlayerReview.java:57)     - Test Case is : playerReviewNoresult
+2015-09-13 15:38:43,906 INFO  [main] (PostPlayerReview.java:40)     - Test Case is : playerReviewNormal
+2015-09-13 15:38:44,171 INFO  [main] (PostPlayerReview.java:93)     - Test Case is : playerReviewNoseriesid
+2015-09-13 15:38:44,437 INFO  [main] (PostPlayerReview.java:48)     - Test Case is : playerReviewNovideoid
+2015-09-13 15:42:47,171 INFO  [main] (GetPackageAjaxCreate.java:35)     - Test Case is : getAjaxCreatePackageNormal
+2015-09-13 15:43:00,531 INFO  [main] (PostRegProxyValidate.java:79)     - Test Case is : postProxyValidateNormal
+2015-09-13 15:51:03,156 INFO  [main] (PostRegProxyValidate.java:69)     - Test Case is : postProxyValidateNormal
+2015-09-13 15:51:31,406 INFO  [main] (PostRegProxyValidate.java:69)     - Test Case is : postProxyValidateNormal
+2015-09-13 15:52:30,171 INFO  [main] (PostRegProxyValidate.java:69)     - Test Case is : postProxyValidateNormal
+2015-09-13 16:07:03,484 INFO  [main] (PostModifyPassword.java:60)     - Test Case is : testModifyPasswordNormal
+2015-09-13 16:07:04,703 INFO  [main] (PostModifyPassword.java:71)     - Test Case is : testResetPasswordNormal
+2015-09-13 16:07:04,921 INFO  [main] (PostModifyPassword.java:82)     - Test Case is : testModifyPasswordNoAction
+2015-09-13 16:07:05,046 INFO  [main] (PostModifyPassword.java:133)     - Test Case is : testModifyPasswordNoNewpassword
+2015-09-13 16:07:05,156 INFO  [main] (PostModifyPassword.java:100)     - Test Case is : testModifyPasswordNoUsername
+2015-09-13 16:07:05,265 INFO  [main] (PostModifyPassword.java:117)     - Test Case is : testModifyPasswordNopassword
+2015-09-13 16:07:05,390 INFO  [main] (PostModifyPassword.java:149)     - Test Case is : testResetPasswordNoAction
+2015-09-13 16:07:05,515 INFO  [main] (PostModifyPassword.java:201)     - Test Case is : testResetPasswordNoNewpassword
+2015-09-13 16:07:05,656 INFO  [main] (PostModifyPassword.java:183)     - Test Case is : testResetPasswordNoPassword
+2015-09-13 16:07:05,781 INFO  [main] (PostModifyPassword.java:165)     - Test Case is : testResetPasswordNoUsername
+2015-09-13 16:08:42,171 INFO  [main] (PostModifyPassword.java:60)     - Test Case is : testModifyPasswordNormal
+2015-09-13 16:08:43,375 INFO  [main] (PostModifyPassword.java:71)     - Test Case is : testResetPasswordNormal
+2015-09-13 16:08:43,593 INFO  [main] (PostModifyPassword.java:82)     - Test Case is : testModifyPasswordNoAction
+2015-09-13 16:08:43,765 INFO  [main] (PostModifyPassword.java:127)     - Test Case is : testModifyPasswordNoNewpassword
+2015-09-13 16:08:43,890 INFO  [main] (PostModifyPassword.java:94)     - Test Case is : testModifyPasswordNoUsername
+2015-09-13 16:08:44,000 INFO  [main] (PostModifyPassword.java:111)     - Test Case is : testModifyPasswordNopassword
+2015-09-13 16:08:44,125 INFO  [main] (PostModifyPassword.java:143)     - Test Case is : testResetPasswordNoAction
+2015-09-13 16:08:44,234 INFO  [main] (PostModifyPassword.java:195)     - Test Case is : testResetPasswordNoNewpassword
+2015-09-13 16:08:44,359 INFO  [main] (PostModifyPassword.java:177)     - Test Case is : testResetPasswordNoPassword
+2015-09-13 16:08:44,484 INFO  [main] (PostModifyPassword.java:159)     - Test Case is : testResetPasswordNoUsername
+2015-09-13 16:09:29,203 INFO  [main] (PostModifyPassword.java:60)     - Test Case is : testModifyPasswordNormal
+2015-09-13 16:09:30,437 INFO  [main] (PostModifyPassword.java:71)     - Test Case is : testResetPasswordNormal
+2015-09-13 16:09:30,640 INFO  [main] (PostModifyPassword.java:82)     - Test Case is : testModifyPasswordNoAction
+2015-09-13 16:09:30,843 INFO  [main] (PostModifyPassword.java:120)     - Test Case is : testModifyPasswordNoNewpassword
+2015-09-13 16:09:30,968 INFO  [main] (PostModifyPassword.java:94)     - Test Case is : testModifyPasswordNoUsername
+2015-09-13 16:09:31,156 INFO  [main] (PostModifyPassword.java:104)     - Test Case is : testModifyPasswordNopassword
+2015-09-13 16:09:31,281 INFO  [main] (PostModifyPassword.java:136)     - Test Case is : testResetPasswordNoAction
+2015-09-13 16:09:31,406 INFO  [main] (PostModifyPassword.java:188)     - Test Case is : testResetPasswordNoNewpassword
+2015-09-13 16:09:31,515 INFO  [main] (PostModifyPassword.java:170)     - Test Case is : testResetPasswordNoPassword
+2015-09-13 16:09:31,625 INFO  [main] (PostModifyPassword.java:152)     - Test Case is : testResetPasswordNoUsername
+2015-09-13 16:10:47,843 INFO  [main] (PostModifyPassword.java:60)     - Test Case is : testModifyPasswordNormal
+2015-09-13 16:10:49,093 INFO  [main] (PostModifyPassword.java:71)     - Test Case is : testResetPasswordNormal
+2015-09-13 16:10:49,312 INFO  [main] (PostModifyPassword.java:82)     - Test Case is : testModifyPasswordNoAction
+2015-09-13 16:10:49,484 INFO  [main] (PostModifyPassword.java:116)     - Test Case is : testModifyPasswordNoNewpassword
+2015-09-13 16:10:49,687 INFO  [main] (PostModifyPassword.java:94)     - Test Case is : testModifyPasswordNoUsername
+2015-09-13 16:10:49,890 INFO  [main] (PostModifyPassword.java:104)     - Test Case is : testModifyPasswordNopassword
+2015-09-13 16:10:50,093 INFO  [main] (PostModifyPassword.java:128)     - Test Case is : testResetPasswordNoAction
+2015-09-13 16:10:50,218 INFO  [main] (PostModifyPassword.java:180)     - Test Case is : testResetPasswordNoNewpassword
+2015-09-13 16:10:50,359 INFO  [main] (PostModifyPassword.java:162)     - Test Case is : testResetPasswordNoPassword
+2015-09-13 16:10:50,468 INFO  [main] (PostModifyPassword.java:144)     - Test Case is : testResetPasswordNoUsername
+2015-09-13 16:12:20,718 INFO  [main] (PostModifyPassword.java:60)     - Test Case is : testModifyPasswordNormal
+2015-09-13 16:12:21,953 INFO  [main] (PostModifyPassword.java:71)     - Test Case is : testResetPasswordNormal
+2015-09-13 16:12:22,171 INFO  [main] (PostModifyPassword.java:82)     - Test Case is : testModifyPasswordNoAction
+2015-09-13 16:12:22,328 INFO  [main] (PostModifyPassword.java:116)     - Test Case is : testModifyPasswordNoNewpassword
+2015-09-13 16:12:22,468 INFO  [main] (PostModifyPassword.java:94)     - Test Case is : testModifyPasswordNoUsername
+2015-09-13 16:12:22,656 INFO  [main] (PostModifyPassword.java:104)     - Test Case is : testModifyPasswordNopassword
+2015-09-13 16:12:22,843 INFO  [main] (PostModifyPassword.java:132)     - Test Case is : testResetPasswordNoAction
+2015-09-13 16:12:22,953 INFO  [main] (PostModifyPassword.java:184)     - Test Case is : testResetPasswordNoNewpassword
+2015-09-13 16:12:23,062 INFO  [main] (PostModifyPassword.java:166)     - Test Case is : testResetPasswordNoPassword
+2015-09-13 16:12:23,171 INFO  [main] (PostModifyPassword.java:148)     - Test Case is : testResetPasswordNoUsername
+2015-09-13 16:13:52,406 INFO  [main] (PostModifyPassword.java:60)     - Test Case is : testModifyPasswordNormal
+2015-09-13 16:13:53,578 INFO  [main] (PostModifyPassword.java:71)     - Test Case is : testResetPasswordNormal
+2015-09-13 16:13:54,250 INFO  [main] (PostModifyPassword.java:82)     - Test Case is : testModifyPasswordNoAction
+2015-09-13 16:13:56,109 INFO  [main] (PostModifyPassword.java:116)     - Test Case is : testModifyPasswordNoNewpassword
+2015-09-13 16:13:56,281 INFO  [main] (PostModifyPassword.java:94)     - Test Case is : testModifyPasswordNoUsername
+2015-09-13 16:13:56,546 INFO  [main] (PostModifyPassword.java:104)     - Test Case is : testModifyPasswordNopassword
+2015-09-13 16:13:56,703 INFO  [main] (PostModifyPassword.java:129)     - Test Case is : testResetPasswordNoAction
+2015-09-13 16:13:56,828 INFO  [main] (PostModifyPassword.java:181)     - Test Case is : testResetPasswordNoNewpassword
+2015-09-13 16:13:56,953 INFO  [main] (PostModifyPassword.java:163)     - Test Case is : testResetPasswordNoPassword
+2015-09-13 16:13:57,062 INFO  [main] (PostModifyPassword.java:145)     - Test Case is : testResetPasswordNoUsername
+2015-09-13 16:14:49,828 INFO  [main] (PostModifyPassword.java:60)     - Test Case is : testModifyPasswordNormal
+2015-09-13 16:14:51,062 INFO  [main] (PostModifyPassword.java:71)     - Test Case is : testResetPasswordNormal
+2015-09-13 16:14:51,281 INFO  [main] (PostModifyPassword.java:82)     - Test Case is : testModifyPasswordNoAction
+2015-09-13 16:14:51,437 INFO  [main] (PostModifyPassword.java:116)     - Test Case is : testModifyPasswordNoNewpassword
+2015-09-13 16:14:51,562 INFO  [main] (PostModifyPassword.java:94)     - Test Case is : testModifyPasswordNoUsername
+2015-09-13 16:14:51,750 INFO  [main] (PostModifyPassword.java:104)     - Test Case is : testModifyPasswordNopassword
+2015-09-13 16:14:51,937 INFO  [main] (PostModifyPassword.java:129)     - Test Case is : testResetPasswordNoAction
+2015-09-13 16:14:52,046 INFO  [main] (PostModifyPassword.java:174)     - Test Case is : testResetPasswordNoNewpassword
+2015-09-13 16:14:52,171 INFO  [main] (PostModifyPassword.java:158)     - Test Case is : testResetPasswordNoPassword
+2015-09-13 16:14:52,296 INFO  [main] (PostModifyPassword.java:142)     - Test Case is : testResetPasswordNoUsername
+2015-09-13 16:16:07,031 INFO  [main] (PostModifyPassword.java:53)     - Test Case is : testModifyPasswordNormal
+2015-09-13 16:16:08,234 INFO  [main] (PostModifyPassword.java:64)     - Test Case is : testResetPasswordNormal
+2015-09-13 16:16:08,453 INFO  [main] (PostModifyPassword.java:75)     - Test Case is : testModifyPasswordNoAction
+2015-09-13 16:16:08,625 INFO  [main] (PostModifyPassword.java:109)     - Test Case is : testModifyPasswordNoNewpassword
+2015-09-13 16:16:08,750 INFO  [main] (PostModifyPassword.java:87)     - Test Case is : testModifyPasswordNoUsername
+2015-09-13 16:16:08,968 INFO  [main] (PostModifyPassword.java:97)     - Test Case is : testModifyPasswordNopassword
+2015-09-13 16:16:09,156 INFO  [main] (PostModifyPassword.java:122)     - Test Case is : testResetPasswordNoAction
+2015-09-13 16:16:09,281 INFO  [main] (PostModifyPassword.java:167)     - Test Case is : testResetPasswordNoNewpassword
+2015-09-13 16:16:09,406 INFO  [main] (PostModifyPassword.java:151)     - Test Case is : testResetPasswordNoPassword
+2015-09-13 16:16:09,531 INFO  [main] (PostModifyPassword.java:135)     - Test Case is : testResetPasswordNoUsername
+2015-09-13 16:20:20,718 INFO  [main] ( GetUser.java:55)     - Test Case is : getUserNormal
+2015-09-13 16:20:20,875 INFO  [main] ( GetUser.java:66)     - Test Case is : getUserNoId
+2015-09-13 16:23:47,187 INFO  [main] (DeleteTicketTGT.java:49)     - Test Case is : DeleteTicketTGT.registerUser
+2015-09-13 16:23:49,828 INFO  [main] (DeleteTicketTGT.java:83)     - Test Case is : deleteTGT
+2015-09-13 16:27:34,796 INFO  [main] (DeleteTicketTGT.java:49)     - Test Case is : DeleteTicketTGT.registerUser
+2015-09-13 16:27:37,359 INFO  [main] (DeleteTicketTGT.java:83)     - Test Case is : deleteTGT
+2015-09-13 16:28:48,546 INFO  [main] (DeleteTicketTGT.java:49)     - Test Case is : DeleteTicketTGT.registerUser
+2015-09-13 16:28:50,937 INFO  [main] (DeleteTicketTGT.java:72)     - Test Case is : deleteTGT
+2015-09-13 16:54:40,453 INFO  [main] ( PutUser.java:59)     - Test Case is : modifyUserInfoNormal
+2015-09-13 16:54:40,625 INFO  [main] ( PutUser.java:69)     - Test Case is : modifyUserInfoNoId
+2015-09-13 16:54:40,687 INFO  [main] ( PutUser.java:79)     - Test Case is : modifyUserInfoNoOther
+2015-09-13 16:58:24,984 INFO  [main] (DeleteUser.java:52)     - Test Case is : deleteUserNoId
+2015-09-13 16:58:25,093 INFO  [main] (DeleteUser.java:61)     - Test Case is : deleteUserNormal
+2015-09-13 16:58:25,218 INFO  [main] (DeleteUser.java:71)     - Test Case is : deleteUserNoExist
+2015-09-13 16:58:51,109 INFO  [main] (DeleteUser.java:52)     - Test Case is : deleteUserNoId
+2015-09-13 16:58:51,218 INFO  [main] (DeleteUser.java:61)     - Test Case is : deleteUserNormal
+2015-09-13 16:58:51,343 INFO  [main] (DeleteUser.java:71)     - Test Case is : deleteUserNoExist
+2015-09-13 16:59:14,250 INFO  [main] (DeleteUser.java:52)     - Test Case is : deleteUserNoId
+2015-09-13 16:59:14,359 INFO  [main] (DeleteUser.java:61)     - Test Case is : deleteUserNormal
+2015-09-13 16:59:14,500 INFO  [main] (DeleteUser.java:71)     - Test Case is : deleteUserNoExist
+2015-09-13 17:12:29,906 INFO  [main] (DeleteUser.java:52)     - Test Case is : deleteUserNoId
+2015-09-13 17:12:30,031 INFO  [main] (DeleteUser.java:61)     - Test Case is : deleteUserNormal
+2015-09-13 17:12:30,171 INFO  [main] (DeleteUser.java:71)     - Test Case is : deleteUserNoExist
+2015-09-13 17:18:05,421 INFO  [main] (PostUpdateUser.java:54)     - Test Case is : updateUserAvatar
+2015-09-13 17:18:05,515 INFO  [main] (PostUpdateUser.java:64)     - Test Case is : updateUserEmail
+2015-09-13 17:21:49,812 INFO  [main] (PostUpdateUser.java:48)     - Test Case is : updateUserAvatar
+2015-09-13 17:21:49,921 INFO  [main] (PostUpdateUser.java:58)     - Test Case is : updateUserEmail
+2015-09-13 17:22:40,968 INFO  [main] (PostUpdateUser.java:48)     - Test Case is : updateUserAvatar
+2015-09-13 17:22:42,250 INFO  [main] (PostUpdateUser.java:58)     - Test Case is : updateUserEmail
+2015-09-13 22:08:44,578 INFO  [main] ( GetRole.java:52)     - Test Case is : getRole
+2015-09-13 22:08:47,187 INFO  [main] ( GetRole.java:66)     - Test Case is : getRoleNoId
+2015-09-13 22:12:47,062 INFO  [main] ( GetRole.java:52)     - Test Case is : getRole
+2015-09-13 22:12:47,937 INFO  [main] ( GetRole.java:66)     - Test Case is : getRoleNoId
+2015-09-13 22:26:50,593 INFO  [main] ( GetRole.java:45)     - Test Case is : getRole
+2015-09-13 22:26:51,875 INFO  [main] ( GetRole.java:54)     - Test Case is : getRoleNoId
+2015-09-13 22:27:19,937 INFO  [main] ( GetRole.java:45)     - Test Case is : getRole
+2015-09-13 22:27:21,062 INFO  [main] ( GetRole.java:54)     - Test Case is : getRoleNoId
+2015-09-13 22:28:10,156 INFO  [main] ( GetRole.java:45)     - Test Case is : getRole
+2015-09-13 22:28:11,390 INFO  [main] ( GetRole.java:54)     - Test Case is : getRoleNoId
+2015-09-13 22:34:11,453 INFO  [main] ( PutRole.java:33)     - Test Case is : putUserRoleNormal
+2015-09-13 22:34:13,250 INFO  [main] ( PutRole.java:42)     - Test Case is : putUserRoleNoName
+2015-09-13 22:36:57,906 INFO  [main] (DeleteTicketTGT.java:42)     - Test Case is : DeleteTicketTGT.registerUser
+2015-09-13 22:37:01,828 INFO  [main] (DeleteTicketTGT.java:65)     - Test Case is : deleteTGT
+2015-09-13 22:38:44,578 INFO  [main] (PostTickets.java:71)     - Test Case is : getTGTNoPassword
+2015-09-13 22:38:46,078 INFO  [main] (PostTickets.java:61)     - Test Case is : getTGTNoUsername
+2015-09-13 22:38:49,031 INFO  [main] (PostTickets.java:49)     - Test Case is : getTGTNormal
+2015-09-13 22:38:49,375 INFO  [main] (PostTickets.java:92)     - Test Case is : getTGTWrongPassword
+2015-09-13 22:38:49,828 INFO  [main] (PostTickets.java:81)     - Test Case is : getTGTWrongUsername
+2015-09-15 22:31:54,611 INFO  [main] ( GetUser.java:56)     - Test Case is : getUserNormal
+2015-09-15 22:32:10,611 INFO  [main] ( GetUser.java:67)     - Test Case is : getUserNoId
+2015-09-15 22:35:35,267 INFO  [main] ( GetUser.java:55)     - Test Case is : getUserNormal
+2015-09-15 22:36:53,080 INFO  [main] ( GetUser.java:55)     - Test Case is : getUserNormal
+2015-09-15 22:37:48,767 INFO  [main] ( GetUser.java:55)     - Test Case is : getUserNormal
+2015-09-15 22:37:50,611 INFO  [main] ( GetUser.java:66)     - Test Case is : getUserNoId
+2015-09-15 22:41:36,064 INFO  [main] ( GetUser.java:55)     - Test Case is : getUserNormal
+2015-09-15 22:41:36,392 INFO  [main] ( GetUser.java:66)     - Test Case is : getUserNoId
+2015-09-15 22:43:42,314 INFO  [main] ( GetUser.java:57)     - Test Case is : getUserNormal
+2015-09-15 22:43:43,220 INFO  [main] ( GetUser.java:68)     - Test Case is : getUserNoId
+2015-09-15 22:47:09,673 INFO  [main] (GetVideoIsMark.java:42)     - Test Case is : videoAjaxMarkNormal
+2015-09-15 22:47:09,830 INFO  [main] (GetVideoIsMark.java:57)     - Test Case is : videoAjaxMarkNormal
+2015-09-15 22:47:12,283 INFO  [main] (GetVideoProgress.java:41)     - Test Case is : videoProgressNormal
+2015-09-15 22:47:12,486 INFO  [main] (GetVideoProgress.java:59)     - Test Case is : videoProgressNovideoid
+2015-09-15 22:47:14,923 INFO  [main] (PostVideoMarks.java:43)     - Test Case is : testVideomarkNormal
+2015-09-15 22:47:15,142 INFO  [main] (PostVideoMarks.java:58)     - Test Case is : testVideomarkNovideoid
+2015-09-15 22:47:15,298 INFO  [main] (PostVideoMarks.java:73)     - Test Case is : testVideomarkNovideomark
+2015-09-15 22:47:16,720 INFO  [main] (GetVideoAjaxMark.java:54)     - Test Case is : videoAjaxMarkNoVideoid
+2015-09-15 22:47:16,877 INFO  [main] (GetVideoAjaxMark.java:68)     - Test Case is : videoAjaxMarkNomark
+2015-09-15 22:47:17,064 INFO  [main] (GetVideoAjaxMark.java:40)     - Test Case is : videoAjaxMarkNormal
+2015-09-15 22:47:19,002 INFO  [main] (GetLastPlayed.java:50)     - Test Case is : lastPlayedNormal
+2015-09-15 22:47:19,158 INFO  [main] (GetLastPlayed.java:38)     - Test Case is : lastPlayedNormal
+2015-09-15 22:48:24,783 INFO  [main] (PostVideoMarks.java:43)     - Test Case is : testVideomarkNormal
+2015-09-15 22:48:24,923 INFO  [main] (PostVideoMarks.java:58)     - Test Case is : testVideomarkNovideoid
+2015-09-15 22:48:25,080 INFO  [main] (PostVideoMarks.java:73)     - Test Case is : testVideomarkNovideomark
+2015-09-15 22:48:39,877 INFO  [main] (GetVideoIsMark.java:42)     - Test Case is : videoAjaxMarkNormal
+2015-09-15 22:48:40,064 INFO  [main] (GetVideoIsMark.java:57)     - Test Case is : videoAjaxMarkNormal
+2015-09-15 22:48:41,439 INFO  [main] (GetVideoProgress.java:41)     - Test Case is : videoProgressNormal
+2015-09-15 22:48:41,627 INFO  [main] (GetVideoProgress.java:59)     - Test Case is : videoProgressNovideoid
+2015-09-15 22:48:43,048 INFO  [main] (PostVideoMarks.java:43)     - Test Case is : testVideomarkNormal
+2015-09-15 22:48:43,236 INFO  [main] (PostVideoMarks.java:58)     - Test Case is : testVideomarkNovideoid
+2015-09-15 22:48:43,408 INFO  [main] (PostVideoMarks.java:73)     - Test Case is : testVideomarkNovideomark
+2015-09-15 22:48:44,861 INFO  [main] (GetVideoAjaxMark.java:54)     - Test Case is : videoAjaxMarkNoVideoid
+2015-09-15 22:48:45,017 INFO  [main] (GetVideoAjaxMark.java:68)     - Test Case is : videoAjaxMarkNomark
+2015-09-15 22:48:45,220 INFO  [main] (GetVideoAjaxMark.java:40)     - Test Case is : videoAjaxMarkNormal
+2015-09-15 22:48:46,908 INFO  [main] (GetLastPlayed.java:50)     - Test Case is : lastPlayedNormal
+2015-09-15 22:48:47,064 INFO  [main] (GetLastPlayed.java:38)     - Test Case is : lastPlayedNormal
+2015-09-15 23:26:38,705 INFO  [main] (GetAccountLogin.java:37)     - Test Case is : loginNormal
+2015-09-15 23:28:04,189 INFO  [main] (GetAccountLogin.java:58)     - Test Case is : loginNormal
+2015-09-15 23:28:05,127 INFO  [main] (GetAccountLogin.java:37)     - Test Case is : loginNormal
+2015-09-15 23:28:05,330 INFO  [main] (GetAccountLogin.java:48)     - Test Case is : loginNormal
+2015-09-15 23:28:28,173 INFO  [main] (GetAccountLogin.java:58)     - Test Case is : loginNormal
+2015-09-15 23:28:29,095 INFO  [main] (GetAccountLogin.java:37)     - Test Case is : loginNormal
+2015-09-15 23:28:29,298 INFO  [main] (GetAccountLogin.java:48)     - Test Case is : loginNormal
+2015-09-15 23:36:58,845 INFO  [main] (GetAccountLogin.java:50)     - Test Case is : loginNormal
+2015-09-15 23:37:01,486 INFO  [main] (GetAccountLogin.java:31)     - Test Case is : loginNormal
+2015-09-15 23:37:01,955 INFO  [main] (GetAccountLogin.java:40)     - Test Case is : loginNormal
+2015-09-15 23:40:43,564 INFO  [main] (GetAccountLogout.java:51)     - Test Case is : loginNormal
+2015-09-15 23:40:43,767 INFO  [main] (GetAccountLogout.java:41)     - Test Case is : loginNormal
+2015-09-15 23:40:43,970 INFO  [main] (GetAccountLogout.java:32)     - Test Case is : logoutNormal
+2015-09-15 23:41:19,548 INFO  [main] (GetAccountLogout.java:51)     - Test Case is : loginNormal
+2015-09-15 23:41:19,752 INFO  [main] (GetAccountLogout.java:41)     - Test Case is : loginNormal
+2015-09-15 23:41:19,939 INFO  [main] (GetAccountLogout.java:32)     - Test Case is : logoutNormal
+2015-09-15 23:42:15,220 INFO  [main] (GetAccountLogout.java:41)     - Test Case is : loginNormal
+2015-09-15 23:42:15,361 INFO  [main] (GetAccountLogout.java:32)     - Test Case is : logoutNormal
+2015-09-15 23:42:47,595 INFO  [main] (GetAccountLogout.java:32)     - Test Case is : logoutNormal
+2015-09-15 23:43:00,861 INFO  [main] (GetAccountLogout.java:32)     - Test Case is : logoutNormal
+2015-09-15 23:43:14,345 INFO  [main] (GetAccountLogout.java:32)     - Test Case is : logoutNormal
+2015-09-15 23:47:49,220 INFO  [main] (GetAccountLogout.java:32)     - Test Case is : logoutNormal
+2015-09-15 23:54:24,877 INFO  [main] (GetAccountRegister.java:36)     - Test Case is : loginNormal
+2015-09-15 23:54:47,580 INFO  [main] (GetAccountRegister.java:64)     - Test Case is : loginNormal
+2015-09-15 23:54:48,470 INFO  [main] (GetAccountRegister.java:55)     - Test Case is : loginNormal
+2015-09-15 23:54:48,798 INFO  [main] (GetAccountRegister.java:46)     - Test Case is : loginNormal
+2015-09-15 23:54:48,955 INFO  [main] (GetAccountRegister.java:36)     - Test Case is : loginNormal
+2015-09-15 23:55:27,517 INFO  [main] (GetAccountRegister.java:64)     - Test Case is : registerNoEmail
+2015-09-15 23:55:28,439 INFO  [main] (GetAccountRegister.java:55)     - Test Case is : registerNoPawword
+2015-09-15 23:55:28,767 INFO  [main] (GetAccountRegister.java:46)     - Test Case is : registerNoUsername
+2015-09-15 23:55:28,908 INFO  [main] (GetAccountRegister.java:36)     - Test Case is : registerNormal
+2015-09-15 23:59:05,095 INFO  [main] (GetAccountRegister.java:47)     - Test Case is : registerNoUsername
+2015-09-15 23:59:05,986 INFO  [main] (GetAccountRegister.java:57)     - Test Case is : registerNoPassword
+2015-09-15 23:59:06,111 INFO  [main] (GetAccountRegister.java:67)     - Test Case is : registerNoEmail
+2015-09-15 23:59:06,252 INFO  [main] (GetAccountRegister.java:36)     - Test Case is : registerNormal
+2015-09-16 00:05:44,533 INFO  [main] (GetAccountLogin.java:50)     - Test Case is : loginNopassword
+2015-09-16 00:05:53,158 INFO  [main] (GetAccountPrecheck.java:34)     - Test Case is : preCheckNormal
+2015-09-16 00:05:54,064 INFO  [main] (GetAccountPrecheck.java:42)     - Test Case is : preCheckUserExsit
+2015-09-16 00:08:10,252 INFO  [main] (GetAccountPrecheck.java:51)     - Test Case is : preCheckEmail
+2015-09-16 00:08:11,127 INFO  [main] (GetAccountPrecheck.java:60)     - Test Case is : preCheckExistEmail
+2015-09-16 00:08:11,267 INFO  [main] (GetAccountPrecheck.java:34)     - Test Case is : preCheckNormal
+2015-09-16 00:08:11,423 INFO  [main] (GetAccountPrecheck.java:42)     - Test Case is : preCheckUserExsit
+2015-09-16 00:11:57,314 INFO  [main] (GetAccountPrecheck.java:51)     - Test Case is : preCheckEmail
+2015-09-16 00:11:58,236 INFO  [main] (GetAccountPrecheck.java:61)     - Test Case is : preCheckExistEmail
+2015-09-16 00:11:58,377 INFO  [main] (GetAccountPrecheck.java:34)     - Test Case is : preCheckNormal
+2015-09-16 00:11:58,533 INFO  [main] (GetAccountPrecheck.java:42)     - Test Case is : preCheckUserExsit
+2015-09-16 00:17:47,955 INFO  [main] (GetAccountShow.java:34)     - Test Case is : loginNormal
+2015-09-16 00:18:08,220 INFO  [main] (GetAccountShow.java:34)     - Test Case is : loginNormal
+2015-09-16 00:26:20,127 INFO  [main] (GetAccountShow.java:34)     - Test Case is : loginNormal
+2015-09-16 00:26:53,298 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-16 00:26:53,502 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-16 00:26:53,720 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-16 00:26:53,736 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-16 00:26:53,736 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-16 00:26:53,736 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-16 00:26:53,736 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-16 00:26:53,736 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: GET /jssdk/account/login?password=123123&name=test201 HTTP/1.1
+2015-09-16 00:26:53,752 DEBUG [main] (    Wire.java:72)     -  >> "GET /jssdk/account/login?password=123123&name=test201 HTTP/1.1[\r][\n]"
+2015-09-16 00:26:53,752 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-16 00:26:53,752 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-16 00:26:53,752 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-16 00:26:53,752 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-16 00:26:53,752 DEBUG [main] (DefaultClientConnection.java:272)     - >> GET /jssdk/account/login?password=123123&name=test201 HTTP/1.1
+2015-09-16 00:26:53,752 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-16 00:26:53,752 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-16 00:26:53,752 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-16 00:26:53,814 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 200 OK[\r][\n]"
+2015-09-16 00:26:53,814 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 15 Sep 2015 16:26:53 GMT[\r][\n]"
+2015-09-16 00:26:53,814 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2015-09-16 00:26:53,814 DEBUG [main] (    Wire.java:72)     -  << "Transfer-Encoding: chunked[\r][\n]"
+2015-09-16 00:26:53,814 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-16 00:26:53,814 DEBUG [main] (    Wire.java:72)     -  << "Server: nginx/1.6.0[\r][\n]"
+2015-09-16 00:26:53,814 DEBUG [main] (    Wire.java:72)     -  << "X-Powered-By: PHP/5.6.5[\r][\n]"
+2015-09-16 00:26:53,814 DEBUG [main] (    Wire.java:72)     -  << "Request: sso/account/login[\r][\n]"
+2015-09-16 00:26:53,814 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-16 00:26:53,814 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:26:53,814 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 200 OK
+2015-09-16 00:26:53,814 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 200 OK
+2015-09-16 00:26:53,814 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 15 Sep 2015 16:26:53 GMT
+2015-09-16 00:26:53,814 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json; charset=UTF-8
+2015-09-16 00:26:53,814 DEBUG [main] (DefaultClientConnection.java:259)     - << Transfer-Encoding: chunked
+2015-09-16 00:26:53,814 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-16 00:26:53,814 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: nginx/1.6.0
+2015-09-16 00:26:53,814 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Powered-By: PHP/5.6.5
+2015-09-16 00:26:53,814 DEBUG [main] (DefaultClientConnection.java:259)     - << Request: sso/account/login
+2015-09-16 00:26:53,814 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-16 00:26:53,830 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-16 00:26:53,830 DEBUG [main] (    Wire.java:72)     -  << "6d[\r][\n]"
+2015-09-16 00:26:53,830 DEBUG [main] (    Wire.java:86)     -  << "{"request":"sso/account/login","errorCode":400,"errorMsg":"Bad request. Param username is missing","data":[]}"
+2015-09-16 00:26:53,830 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:26:53,845 DEBUG [main] (    Wire.java:72)     -  << "0[\r][\n]"
+2015-09-16 00:26:53,845 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:26:53,845 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@c8eb05
+2015-09-16 00:26:53,845 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-16 00:26:54,002 INFO  [main] (GetAccountShow.java:34)     - Test Case is : loginNormal
+2015-09-16 00:26:54,002 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-16 00:26:54,002 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-16 00:26:54,080 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-16 00:26:54,080 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-16 00:26:54,080 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-16 00:26:54,080 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-16 00:26:54,080 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-16 00:26:54,080 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: GET /jssdk/account/show HTTP/1.1
+2015-09-16 00:26:54,080 DEBUG [main] (    Wire.java:72)     -  >> "GET /jssdk/account/show HTTP/1.1[\r][\n]"
+2015-09-16 00:26:54,080 DEBUG [main] (    Wire.java:72)     -  >> "Cookie: zjut=null[\r][\n]"
+2015-09-16 00:26:54,080 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-16 00:26:54,080 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-16 00:26:54,080 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-16 00:26:54,080 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-16 00:26:54,080 DEBUG [main] (DefaultClientConnection.java:272)     - >> GET /jssdk/account/show HTTP/1.1
+2015-09-16 00:26:54,080 DEBUG [main] (DefaultClientConnection.java:275)     - >> Cookie: zjut=null
+2015-09-16 00:26:54,080 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-16 00:26:54,080 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-16 00:26:54,080 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-16 00:26:54,127 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 200 OK[\r][\n]"
+2015-09-16 00:26:54,127 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 15 Sep 2015 16:26:53 GMT[\r][\n]"
+2015-09-16 00:26:54,127 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2015-09-16 00:26:54,127 DEBUG [main] (    Wire.java:72)     -  << "Transfer-Encoding: chunked[\r][\n]"
+2015-09-16 00:26:54,127 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-16 00:26:54,127 DEBUG [main] (    Wire.java:72)     -  << "Server: nginx/1.6.0[\r][\n]"
+2015-09-16 00:26:54,127 DEBUG [main] (    Wire.java:72)     -  << "X-Powered-By: PHP/5.6.5[\r][\n]"
+2015-09-16 00:26:54,127 DEBUG [main] (    Wire.java:72)     -  << "Request: sso/account/show[\r][\n]"
+2015-09-16 00:26:54,127 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-16 00:26:54,127 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:26:54,127 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 200 OK
+2015-09-16 00:26:54,127 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 200 OK
+2015-09-16 00:26:54,127 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 15 Sep 2015 16:26:53 GMT
+2015-09-16 00:26:54,127 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json; charset=UTF-8
+2015-09-16 00:26:54,127 DEBUG [main] (DefaultClientConnection.java:259)     - << Transfer-Encoding: chunked
+2015-09-16 00:26:54,127 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-16 00:26:54,127 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: nginx/1.6.0
+2015-09-16 00:26:54,127 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Powered-By: PHP/5.6.5
+2015-09-16 00:26:54,127 DEBUG [main] (DefaultClientConnection.java:259)     - << Request: sso/account/show
+2015-09-16 00:26:54,127 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-16 00:26:54,127 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-16 00:26:54,127 DEBUG [main] (    Wire.java:72)     -  << "61[\r][\n]"
+2015-09-16 00:26:54,127 DEBUG [main] (    Wire.java:86)     -  << "{"request":"sso/account/show","errorCode":400,"errorMsg":"Get User information failed","data":[]}"
+2015-09-16 00:26:54,142 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:26:54,142 DEBUG [main] (    Wire.java:72)     -  << "0[\r][\n]"
+2015-09-16 00:26:54,142 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:26:54,142 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@74f035
+2015-09-16 00:26:54,142 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-16 00:26:55,377 DEBUG [Finalizer] (DefaultClientConnection.java:176)     - Connection 0.0.0.0:3150<->119.90.34.164:443 closed
+2015-09-16 00:28:36,236 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-16 00:28:36,564 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-16 00:28:36,752 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-16 00:28:36,767 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-16 00:28:36,767 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-16 00:28:36,767 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-16 00:28:36,767 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-16 00:28:36,767 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: GET /jssdk/account/login?password=123123&username=test201 HTTP/1.1
+2015-09-16 00:28:36,783 DEBUG [main] (    Wire.java:72)     -  >> "GET /jssdk/account/login?password=123123&username=test201 HTTP/1.1[\r][\n]"
+2015-09-16 00:28:36,783 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-16 00:28:36,783 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-16 00:28:36,783 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-16 00:28:36,783 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-16 00:28:36,783 DEBUG [main] (DefaultClientConnection.java:272)     - >> GET /jssdk/account/login?password=123123&username=test201 HTTP/1.1
+2015-09-16 00:28:36,783 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-16 00:28:36,783 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-16 00:28:36,783 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 200 OK[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 15 Sep 2015 16:28:36 GMT[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "Transfer-Encoding: chunked[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "Server: nginx/1.6.0[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "X-Powered-By: PHP/5.6.5[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "Set-Cookie: zjut=MFpTR3h1QmtTSlM1VEdULTI2Ni1OUWVRZEFmaTVOc3BmbnlkdEZmWU9uVXNkS1I3TXNwYndlcHlabGRmeWRBV1dWaTB6cy1jYXM%3D; expires=Wed, 14-Sep-2016 16:28:36 GMT; Max-Age=31536000; path=/; domain=.ezijing.com[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "Request: sso/account/login[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "Set-Cookie: PHPSESSID=jfn6a520qeifa7cu7edhnqtt61; path=/; HttpOnly[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "Expires: Thu, 19 Nov 1981 08:52:00 GMT[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "Pragma: no-cache[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 200 OK
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 200 OK
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 15 Sep 2015 16:28:36 GMT
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json; charset=UTF-8
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << Transfer-Encoding: chunked
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: nginx/1.6.0
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Powered-By: PHP/5.6.5
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << Set-Cookie: zjut=MFpTR3h1QmtTSlM1VEdULTI2Ni1OUWVRZEFmaTVOc3BmbnlkdEZmWU9uVXNkS1I3TXNwYndlcHlabGRmeWRBV1dWaTB6cy1jYXM%3D; expires=Wed, 14-Sep-2016 16:28:36 GMT; Max-Age=31536000; path=/; domain=.ezijing.com
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << Request: sso/account/login
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << Set-Cookie: PHPSESSID=jfn6a520qeifa7cu7edhnqtt61; path=/; HttpOnly
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << Expires: Thu, 19 Nov 1981 08:52:00 GMT
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << Pragma: no-cache
+2015-09-16 00:28:36,892 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-16 00:28:36,923 DEBUG [main] (ResponseProcessCookies.java:117)     - Cookie accepted [zjut="MFpTR3h1QmtTSlM1VEdULTI2Ni1OUWVRZEFmaTVOc3BmbnlkdEZmWU9uVXNkS1I3TXNwYndlcHlabGRmeWRBV1dWaTB6cy1jYXM%...", version:0, domain:.ezijing.com, path:/, expiry:Thu Sep 15 00:28:36 CST 2016]
+2015-09-16 00:28:36,923 DEBUG [main] (ResponseProcessCookies.java:117)     - Cookie accepted [PHPSESSID="jfn6a520qeifa7cu7edhnqtt61", version:0, domain:api.ezijing.com, path:/, expiry:null]
+2015-09-16 00:28:36,923 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-16 00:28:36,939 DEBUG [main] (    Wire.java:72)     -  << "db[\r][\n]"
+2015-09-16 00:28:36,939 DEBUG [main] (    Wire.java:86)     -  << "{"request":"sso/account/login","errorCode":200,"errorMsg":"","data":{"user":{"uid":27296,"mid":1000000783,"username":"test201","email":"djddjf5@qq.com","realname":"","gender":"","avatar":"","signature":"","mobile":""}}}"
+2015-09-16 00:28:36,939 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:28:36,939 DEBUG [main] (    Wire.java:72)     -  << "0[\r][\n]"
+2015-09-16 00:28:36,939 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:28:36,939 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@230c58
+2015-09-16 00:28:36,939 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-16 00:28:37,080 INFO  [main] (GetAccountShow.java:34)     - Test Case is : loginNormal
+2015-09-16 00:28:37,080 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-16 00:28:37,095 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-16 00:28:37,158 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-16 00:28:37,158 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-16 00:28:37,158 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-16 00:28:37,158 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-16 00:28:37,158 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-16 00:28:37,158 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: GET /jssdk/account/show HTTP/1.1
+2015-09-16 00:28:37,158 DEBUG [main] (    Wire.java:72)     -  >> "GET /jssdk/account/show HTTP/1.1[\r][\n]"
+2015-09-16 00:28:37,158 DEBUG [main] (    Wire.java:72)     -  >> "Cookie: zjut=zjut=MFpTR3h1QmtTSlM1VEdULTI2Ni1OUWVRZEFmaTVOc3BmbnlkdEZmWU9uVXNkS1I3TXNwYndlcHlabGRmeWRBV1dWaTB6cy1jYXM%3D; [\r][\n]"
+2015-09-16 00:28:37,158 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-16 00:28:37,158 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-16 00:28:37,158 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-16 00:28:37,158 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-16 00:28:37,158 DEBUG [main] (DefaultClientConnection.java:272)     - >> GET /jssdk/account/show HTTP/1.1
+2015-09-16 00:28:37,158 DEBUG [main] (DefaultClientConnection.java:275)     - >> Cookie: zjut=zjut=MFpTR3h1QmtTSlM1VEdULTI2Ni1OUWVRZEFmaTVOc3BmbnlkdEZmWU9uVXNkS1I3TXNwYndlcHlabGRmeWRBV1dWaTB6cy1jYXM%3D; 
+2015-09-16 00:28:37,158 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-16 00:28:37,158 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-16 00:28:37,158 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-16 00:28:37,220 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 200 OK[\r][\n]"
+2015-09-16 00:28:37,220 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 15 Sep 2015 16:28:36 GMT[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "Transfer-Encoding: chunked[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "Server: nginx/1.6.0[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "X-Powered-By: PHP/5.6.5[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "Set-Cookie: PHPSESSID=ctqkm3q3s9n1pe8h88v1ofr9t4; path=/; HttpOnly[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "Expires: Thu, 19 Nov 1981 08:52:00 GMT[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "Pragma: no-cache[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "Set-Cookie: zjut=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.ezijing.com[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "Request: sso/account/show[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 200 OK
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 200 OK
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 15 Sep 2015 16:28:36 GMT
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json; charset=UTF-8
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Transfer-Encoding: chunked
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: nginx/1.6.0
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Powered-By: PHP/5.6.5
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Set-Cookie: PHPSESSID=ctqkm3q3s9n1pe8h88v1ofr9t4; path=/; HttpOnly
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Expires: Thu, 19 Nov 1981 08:52:00 GMT
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Pragma: no-cache
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Set-Cookie: zjut=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.ezijing.com
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Request: sso/account/show
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-16 00:28:37,236 DEBUG [main] (ResponseProcessCookies.java:117)     - Cookie accepted [PHPSESSID="ctqkm3q3s9n1pe8h88v1ofr9t4", version:0, domain:api.ezijing.com, path:/, expiry:null]
+2015-09-16 00:28:37,236 DEBUG [main] (ResponseProcessCookies.java:117)     - Cookie accepted [zjut="deleted", version:0, domain:.ezijing.com, path:/, expiry:Thu Jan 01 08:00:01 CST 1970]
+2015-09-16 00:28:37,236 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "61[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:86)     -  << "{"request":"sso/account/show","errorCode":400,"errorMsg":"Get User information failed","data":[]}"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "0[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:28:37,236 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@161d8d1
+2015-09-16 00:28:37,236 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-16 00:28:38,377 DEBUG [Finalizer] (DefaultClientConnection.java:176)     - Connection 0.0.0.0:3744<->119.90.34.164:443 closed
+2015-09-16 00:29:20,689 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-16 00:29:20,892 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-16 00:29:21,095 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-16 00:29:21,111 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-16 00:29:21,111 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-16 00:29:21,111 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-16 00:29:21,111 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-16 00:29:21,111 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: GET /jssdk/account/login?password=123123&username=test201 HTTP/1.1
+2015-09-16 00:29:21,111 DEBUG [main] (    Wire.java:72)     -  >> "GET /jssdk/account/login?password=123123&username=test201 HTTP/1.1[\r][\n]"
+2015-09-16 00:29:21,111 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-16 00:29:21,111 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-16 00:29:21,111 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-16 00:29:21,111 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-16 00:29:21,111 DEBUG [main] (DefaultClientConnection.java:272)     - >> GET /jssdk/account/login?password=123123&username=test201 HTTP/1.1
+2015-09-16 00:29:21,111 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-16 00:29:21,111 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-16 00:29:21,127 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 200 OK[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 15 Sep 2015 16:29:20 GMT[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "Transfer-Encoding: chunked[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "Server: nginx/1.6.0[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "X-Powered-By: PHP/5.6.5[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "Set-Cookie: zjut=MFpTR3h1QmtTSlM1VEdULTI2Ny1WRzlzcjdiZHJxc2RYUmZ2R0V4cEdEY2Z2cWZXY2dPZmVib3N2dGlnZGpsUzVDYlRHWi1jYXM%3D; expires=Wed, 14-Sep-2016 16:29:20 GMT; Max-Age=31536000; path=/; domain=.ezijing.com[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "Request: sso/account/login[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "Set-Cookie: PHPSESSID=qrpgrne93ujr7qgcgsvbd3rdl3; path=/; HttpOnly[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "Expires: Thu, 19 Nov 1981 08:52:00 GMT[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "Pragma: no-cache[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:29:21,220 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 200 OK
+2015-09-16 00:29:21,220 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 200 OK
+2015-09-16 00:29:21,220 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 15 Sep 2015 16:29:20 GMT
+2015-09-16 00:29:21,220 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json; charset=UTF-8
+2015-09-16 00:29:21,220 DEBUG [main] (DefaultClientConnection.java:259)     - << Transfer-Encoding: chunked
+2015-09-16 00:29:21,220 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-16 00:29:21,220 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: nginx/1.6.0
+2015-09-16 00:29:21,220 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Powered-By: PHP/5.6.5
+2015-09-16 00:29:21,220 DEBUG [main] (DefaultClientConnection.java:259)     - << Set-Cookie: zjut=MFpTR3h1QmtTSlM1VEdULTI2Ny1WRzlzcjdiZHJxc2RYUmZ2R0V4cEdEY2Z2cWZXY2dPZmVib3N2dGlnZGpsUzVDYlRHWi1jYXM%3D; expires=Wed, 14-Sep-2016 16:29:20 GMT; Max-Age=31536000; path=/; domain=.ezijing.com
+2015-09-16 00:29:21,220 DEBUG [main] (DefaultClientConnection.java:259)     - << Request: sso/account/login
+2015-09-16 00:29:21,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Set-Cookie: PHPSESSID=qrpgrne93ujr7qgcgsvbd3rdl3; path=/; HttpOnly
+2015-09-16 00:29:21,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Expires: Thu, 19 Nov 1981 08:52:00 GMT
+2015-09-16 00:29:21,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+2015-09-16 00:29:21,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Pragma: no-cache
+2015-09-16 00:29:21,236 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-16 00:29:21,252 DEBUG [main] (ResponseProcessCookies.java:117)     - Cookie accepted [zjut="MFpTR3h1QmtTSlM1VEdULTI2Ny1WRzlzcjdiZHJxc2RYUmZ2R0V4cEdEY2Z2cWZXY2dPZmVib3N2dGlnZGpsUzVDYlRHWi1jYXM%...", version:0, domain:.ezijing.com, path:/, expiry:Thu Sep 15 00:29:20 CST 2016]
+2015-09-16 00:29:21,252 DEBUG [main] (ResponseProcessCookies.java:117)     - Cookie accepted [PHPSESSID="qrpgrne93ujr7qgcgsvbd3rdl3", version:0, domain:api.ezijing.com, path:/, expiry:null]
+2015-09-16 00:29:21,252 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-16 00:29:21,267 DEBUG [main] (    Wire.java:72)     -  << "db[\r][\n]"
+2015-09-16 00:29:21,267 DEBUG [main] (    Wire.java:86)     -  << "{"request":"sso/account/login","errorCode":200,"errorMsg":"","data":{"user":{"uid":27296,"mid":1000000783,"username":"test201","email":"djddjf5@qq.com","realname":"","gender":"","avatar":"","signature":"","mobile":""}}}"
+2015-09-16 00:29:21,267 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:29:21,267 DEBUG [main] (    Wire.java:72)     -  << "0[\r][\n]"
+2015-09-16 00:29:21,267 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:29:21,267 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@d2a21f
+2015-09-16 00:29:21,267 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-16 00:29:21,455 INFO  [main] (GetAccountShow.java:34)     - Test Case is : loginNormal
+2015-09-16 00:29:21,455 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-16 00:29:21,455 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-16 00:29:21,533 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-16 00:29:21,533 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-16 00:29:21,533 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-16 00:29:21,533 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-16 00:29:21,533 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-16 00:29:21,533 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: GET /jssdk/account/show HTTP/1.1
+2015-09-16 00:29:21,533 DEBUG [main] (    Wire.java:72)     -  >> "GET /jssdk/account/show HTTP/1.1[\r][\n]"
+2015-09-16 00:29:21,533 DEBUG [main] (    Wire.java:72)     -  >> "Cookie: zjut=MFpTR3h1QmtTSlM1VEdULTI2Ny1WRzlzcjdiZHJxc2RYUmZ2R0V4cEdEY2Z2cWZXY2dPZmVib3N2dGlnZGpsUzVDYlRHWi1jYXM%3D; [\r][\n]"
+2015-09-16 00:29:21,533 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-16 00:29:21,533 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-16 00:29:21,533 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-16 00:29:21,533 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-16 00:29:21,533 DEBUG [main] (DefaultClientConnection.java:272)     - >> GET /jssdk/account/show HTTP/1.1
+2015-09-16 00:29:21,533 DEBUG [main] (DefaultClientConnection.java:275)     - >> Cookie: zjut=MFpTR3h1QmtTSlM1VEdULTI2Ny1WRzlzcjdiZHJxc2RYUmZ2R0V4cEdEY2Z2cWZXY2dPZmVib3N2dGlnZGpsUzVDYlRHWi1jYXM%3D; 
+2015-09-16 00:29:21,533 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-16 00:29:21,533 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-16 00:29:21,533 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 200 OK[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 15 Sep 2015 16:29:21 GMT[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "Transfer-Encoding: chunked[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "Server: nginx/1.6.0[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "X-Powered-By: PHP/5.6.5[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "Set-Cookie: PHPSESSID=24luclb01bd30ltf8h40keib76; path=/; HttpOnly[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "Expires: Thu, 19 Nov 1981 08:52:00 GMT[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "Pragma: no-cache[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "Request: sso/account/show[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:29:21,611 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 200 OK
+2015-09-16 00:29:21,611 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 200 OK
+2015-09-16 00:29:21,611 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 15 Sep 2015 16:29:21 GMT
+2015-09-16 00:29:21,611 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json; charset=UTF-8
+2015-09-16 00:29:21,611 DEBUG [main] (DefaultClientConnection.java:259)     - << Transfer-Encoding: chunked
+2015-09-16 00:29:21,611 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-16 00:29:21,611 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: nginx/1.6.0
+2015-09-16 00:29:21,611 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Powered-By: PHP/5.6.5
+2015-09-16 00:29:21,611 DEBUG [main] (DefaultClientConnection.java:259)     - << Set-Cookie: PHPSESSID=24luclb01bd30ltf8h40keib76; path=/; HttpOnly
+2015-09-16 00:29:21,611 DEBUG [main] (DefaultClientConnection.java:259)     - << Expires: Thu, 19 Nov 1981 08:52:00 GMT
+2015-09-16 00:29:21,627 DEBUG [main] (DefaultClientConnection.java:259)     - << Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+2015-09-16 00:29:21,627 DEBUG [main] (DefaultClientConnection.java:259)     - << Pragma: no-cache
+2015-09-16 00:29:21,627 DEBUG [main] (DefaultClientConnection.java:259)     - << Request: sso/account/show
+2015-09-16 00:29:21,627 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-16 00:29:21,627 DEBUG [main] (ResponseProcessCookies.java:117)     - Cookie accepted [PHPSESSID="24luclb01bd30ltf8h40keib76", version:0, domain:api.ezijing.com, path:/, expiry:null]
+2015-09-16 00:29:21,627 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-16 00:29:21,627 DEBUG [main] (    Wire.java:72)     -  << "79[\r][\n]"
+2015-09-16 00:29:21,627 DEBUG [main] (    Wire.java:86)     -  << "{"request":"sso/account/show","errorCode":500,"errorMsg":"date() expects parameter 2 to be long, string given","data":[]}"
+2015-09-16 00:29:21,627 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:29:21,627 DEBUG [main] (    Wire.java:72)     -  << "0[\r][\n]"
+2015-09-16 00:29:21,627 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:29:21,627 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@161d8d1
+2015-09-16 00:29:21,627 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-16 00:29:22,798 DEBUG [Finalizer] (DefaultClientConnection.java:176)     - Connection 0.0.0.0:4001<->119.90.34.164:443 closed
+2015-09-16 00:30:18,298 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-16 00:30:18,502 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-16 00:30:18,705 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-16 00:30:18,720 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-16 00:30:18,720 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-16 00:30:18,720 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-16 00:30:18,720 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-16 00:30:18,720 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: GET /jssdk/account/login?password=123123&username=test201 HTTP/1.1
+2015-09-16 00:30:18,720 DEBUG [main] (    Wire.java:72)     -  >> "GET /jssdk/account/login?password=123123&username=test201 HTTP/1.1[\r][\n]"
+2015-09-16 00:30:18,720 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-16 00:30:18,720 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-16 00:30:18,720 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-16 00:30:18,720 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-16 00:30:18,720 DEBUG [main] (DefaultClientConnection.java:272)     - >> GET /jssdk/account/login?password=123123&username=test201 HTTP/1.1
+2015-09-16 00:30:18,720 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-16 00:30:18,720 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-16 00:30:18,720 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 200 OK[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 15 Sep 2015 16:30:18 GMT[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "Transfer-Encoding: chunked[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "Server: nginx/1.6.0[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "X-Powered-By: PHP/5.6.5[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "Set-Cookie: zjut=MFpTR3h1QmtTSlM1VEdULTI2OC1Ga0JwVlVuZlRneHBXMVE0NGdWZ1E5UVN1Nmh0Q0NNelNEV2tKZURnNWVnUkNOaG94Ny1jYXM%3D; expires=Wed, 14-Sep-2016 16:30:18 GMT; Max-Age=31536000; path=/; domain=.ezijing.com[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "Request: sso/account/login[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "Set-Cookie: PHPSESSID=ouvvtr4a78pgt8p3oe8ufb4vh3; path=/; HttpOnly[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "Expires: Thu, 19 Nov 1981 08:52:00 GMT[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "Pragma: no-cache[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:30:18,830 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 200 OK
+2015-09-16 00:30:18,830 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 200 OK
+2015-09-16 00:30:18,830 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 15 Sep 2015 16:30:18 GMT
+2015-09-16 00:30:18,830 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json; charset=UTF-8
+2015-09-16 00:30:18,830 DEBUG [main] (DefaultClientConnection.java:259)     - << Transfer-Encoding: chunked
+2015-09-16 00:30:18,830 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-16 00:30:18,845 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: nginx/1.6.0
+2015-09-16 00:30:18,845 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Powered-By: PHP/5.6.5
+2015-09-16 00:30:18,845 DEBUG [main] (DefaultClientConnection.java:259)     - << Set-Cookie: zjut=MFpTR3h1QmtTSlM1VEdULTI2OC1Ga0JwVlVuZlRneHBXMVE0NGdWZ1E5UVN1Nmh0Q0NNelNEV2tKZURnNWVnUkNOaG94Ny1jYXM%3D; expires=Wed, 14-Sep-2016 16:30:18 GMT; Max-Age=31536000; path=/; domain=.ezijing.com
+2015-09-16 00:30:18,845 DEBUG [main] (DefaultClientConnection.java:259)     - << Request: sso/account/login
+2015-09-16 00:30:18,845 DEBUG [main] (DefaultClientConnection.java:259)     - << Set-Cookie: PHPSESSID=ouvvtr4a78pgt8p3oe8ufb4vh3; path=/; HttpOnly
+2015-09-16 00:30:18,845 DEBUG [main] (DefaultClientConnection.java:259)     - << Expires: Thu, 19 Nov 1981 08:52:00 GMT
+2015-09-16 00:30:18,845 DEBUG [main] (DefaultClientConnection.java:259)     - << Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+2015-09-16 00:30:18,845 DEBUG [main] (DefaultClientConnection.java:259)     - << Pragma: no-cache
+2015-09-16 00:30:18,845 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-16 00:30:18,861 DEBUG [main] (ResponseProcessCookies.java:117)     - Cookie accepted [zjut="MFpTR3h1QmtTSlM1VEdULTI2OC1Ga0JwVlVuZlRneHBXMVE0NGdWZ1E5UVN1Nmh0Q0NNelNEV2tKZURnNWVnUkNOaG94Ny1jYXM%...", version:0, domain:.ezijing.com, path:/, expiry:Thu Sep 15 00:30:18 CST 2016]
+2015-09-16 00:30:18,861 DEBUG [main] (ResponseProcessCookies.java:117)     - Cookie accepted [PHPSESSID="ouvvtr4a78pgt8p3oe8ufb4vh3", version:0, domain:api.ezijing.com, path:/, expiry:null]
+2015-09-16 00:30:18,861 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-16 00:30:18,877 DEBUG [main] (    Wire.java:72)     -  << "db[\r][\n]"
+2015-09-16 00:30:18,877 DEBUG [main] (    Wire.java:86)     -  << "{"request":"sso/account/login","errorCode":200,"errorMsg":"","data":{"user":{"uid":27296,"mid":1000000783,"username":"test201","email":"djddjf5@qq.com","realname":"","gender":"","avatar":"","signature":"","mobile":""}}}"
+2015-09-16 00:30:18,877 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:30:18,877 DEBUG [main] (    Wire.java:72)     -  << "0[\r][\n]"
+2015-09-16 00:30:18,877 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:30:18,877 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@230c58
+2015-09-16 00:30:18,877 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-16 00:30:19,017 INFO  [main] (GetAccountShow.java:34)     - Test Case is : loginNormal
+2015-09-16 00:30:19,033 DEBUG [main] (BasicClientConnectionManager.java:158)     - Get connection for route {s}->https://api.ezijing.com
+2015-09-16 00:30:19,033 DEBUG [main] (DefaultClientConnectionOperator.java:174)     - Connecting to api.ezijing.com:443
+2015-09-16 00:30:19,111 DEBUG [main] (RequestAddCookies.java:122)     - CookieSpec selected: best-match
+2015-09-16 00:30:19,111 DEBUG [main] (RequestAuthCache.java:75)     - Auth cache not set in the context
+2015-09-16 00:30:19,111 DEBUG [main] (RequestTargetAuthentication.java:78)     - Target auth state: UNCHALLENGED
+2015-09-16 00:30:19,111 DEBUG [main] (RequestProxyAuthentication.java:87)     - Proxy auth state: UNCHALLENGED
+2015-09-16 00:30:19,111 DEBUG [main] (DefaultRequestDirector.java:683)     - Attempt 1 to execute request
+2015-09-16 00:30:19,111 DEBUG [main] (DefaultClientConnection.java:268)     - Sending request: GET /jssdk/account/show HTTP/1.1
+2015-09-16 00:30:19,111 DEBUG [main] (    Wire.java:72)     -  >> "GET /jssdk/account/show HTTP/1.1[\r][\n]"
+2015-09-16 00:30:19,111 DEBUG [main] (    Wire.java:72)     -  >> "zjut: zjut=MFpTR3h1QmtTSlM1VEdULTI2OC1Ga0JwVlVuZlRneHBXMVE0NGdWZ1E5UVN1Nmh0Q0NNelNEV2tKZURnNWVnUkNOaG94Ny1jYXM%3D; [\r][\n]"
+2015-09-16 00:30:19,111 DEBUG [main] (    Wire.java:72)     -  >> "Host: api.ezijing.com[\r][\n]"
+2015-09-16 00:30:19,111 DEBUG [main] (    Wire.java:72)     -  >> "Connection: Keep-Alive[\r][\n]"
+2015-09-16 00:30:19,111 DEBUG [main] (    Wire.java:72)     -  >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2015-09-16 00:30:19,111 DEBUG [main] (    Wire.java:72)     -  >> "[\r][\n]"
+2015-09-16 00:30:19,111 DEBUG [main] (DefaultClientConnection.java:272)     - >> GET /jssdk/account/show HTTP/1.1
+2015-09-16 00:30:19,111 DEBUG [main] (DefaultClientConnection.java:275)     - >> zjut: zjut=MFpTR3h1QmtTSlM1VEdULTI2OC1Ga0JwVlVuZlRneHBXMVE0NGdWZ1E5UVN1Nmh0Q0NNelNEV2tKZURnNWVnUkNOaG94Ny1jYXM%3D; 
+2015-09-16 00:30:19,111 DEBUG [main] (DefaultClientConnection.java:275)     - >> Host: api.ezijing.com
+2015-09-16 00:30:19,111 DEBUG [main] (DefaultClientConnection.java:275)     - >> Connection: Keep-Alive
+2015-09-16 00:30:19,111 DEBUG [main] (DefaultClientConnection.java:275)     - >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2015-09-16 00:30:19,142 DEBUG [main] (    Wire.java:72)     -  << "HTTP/1.1 200 OK[\r][\n]"
+2015-09-16 00:30:19,142 DEBUG [main] (    Wire.java:72)     -  << "Date: Tue, 15 Sep 2015 16:30:18 GMT[\r][\n]"
+2015-09-16 00:30:19,142 DEBUG [main] (    Wire.java:72)     -  << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2015-09-16 00:30:19,142 DEBUG [main] (    Wire.java:72)     -  << "Transfer-Encoding: chunked[\r][\n]"
+2015-09-16 00:30:19,142 DEBUG [main] (    Wire.java:72)     -  << "Connection: keep-alive[\r][\n]"
+2015-09-16 00:30:19,142 DEBUG [main] (    Wire.java:72)     -  << "Server: nginx/1.6.0[\r][\n]"
+2015-09-16 00:30:19,142 DEBUG [main] (    Wire.java:72)     -  << "X-Powered-By: PHP/5.6.5[\r][\n]"
+2015-09-16 00:30:19,142 DEBUG [main] (    Wire.java:72)     -  << "Request: sso/account/show[\r][\n]"
+2015-09-16 00:30:19,142 DEBUG [main] (    Wire.java:72)     -  << "Via: kong/0.3.2[\r][\n]"
+2015-09-16 00:30:19,142 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:30:19,142 DEBUG [main] (DefaultClientConnection.java:253)     - Receiving response: HTTP/1.1 200 OK
+2015-09-16 00:30:19,142 DEBUG [main] (DefaultClientConnection.java:256)     - << HTTP/1.1 200 OK
+2015-09-16 00:30:19,142 DEBUG [main] (DefaultClientConnection.java:259)     - << Date: Tue, 15 Sep 2015 16:30:18 GMT
+2015-09-16 00:30:19,142 DEBUG [main] (DefaultClientConnection.java:259)     - << Content-Type: application/json; charset=UTF-8
+2015-09-16 00:30:19,158 DEBUG [main] (DefaultClientConnection.java:259)     - << Transfer-Encoding: chunked
+2015-09-16 00:30:19,158 DEBUG [main] (DefaultClientConnection.java:259)     - << Connection: keep-alive
+2015-09-16 00:30:19,158 DEBUG [main] (DefaultClientConnection.java:259)     - << Server: nginx/1.6.0
+2015-09-16 00:30:19,158 DEBUG [main] (DefaultClientConnection.java:259)     - << X-Powered-By: PHP/5.6.5
+2015-09-16 00:30:19,158 DEBUG [main] (DefaultClientConnection.java:259)     - << Request: sso/account/show
+2015-09-16 00:30:19,158 DEBUG [main] (DefaultClientConnection.java:259)     - << Via: kong/0.3.2
+2015-09-16 00:30:19,158 DEBUG [main] (DefaultRequestDirector.java:510)     - Connection can be kept alive indefinitely
+2015-09-16 00:30:19,158 DEBUG [main] (    Wire.java:72)     -  << "61[\r][\n]"
+2015-09-16 00:30:19,158 DEBUG [main] (    Wire.java:86)     -  << "{"request":"sso/account/show","errorCode":400,"errorMsg":"Get User information failed","data":[]}"
+2015-09-16 00:30:19,158 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:30:19,158 DEBUG [main] (    Wire.java:72)     -  << "0[\r][\n]"
+2015-09-16 00:30:19,158 DEBUG [main] (    Wire.java:72)     -  << "[\r][\n]"
+2015-09-16 00:30:19,158 DEBUG [main] (BasicClientConnectionManager.java:196)     - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@161d8d1
+2015-09-16 00:30:19,158 DEBUG [main] (BasicClientConnectionManager.java:221)     - Connection can be kept alive indefinitely
+2015-09-16 00:30:20,314 DEBUG [Finalizer] (DefaultClientConnection.java:176)     - Connection 0.0.0.0:4335<->119.90.34.164:443 closed
+2015-09-16 00:31:09,439 INFO  [main] (GetAccountShow.java:34)     - Test Case is : loginNormal
+2015-09-16 00:32:58,720 INFO  [main] (GetAccountShow.java:34)     - Test Case is : loginNormal
+2015-09-16 00:33:28,080 INFO  [main] (GetAccountShow.java:34)     - Test Case is : loginNormal
+2015-09-16 00:33:57,830 INFO  [main] (GetAccountShow.java:34)     - Test Case is : loginNormal
+2015-09-16 00:50:50,642 INFO  [main] (PostRegisterCheck.java:59)     - Test Case is : testRegisterCheckExistUser
+2015-09-16 00:50:50,752 INFO  [main] (PostRegisterCheck.java:69)     - Test Case is : testRegisterCheckNoExistUser
+2015-09-16 00:50:52,330 INFO  [main] (PostTickets.java:74)     - Test Case is : getTGTNoPassword
+2015-09-16 00:50:53,580 INFO  [main] (PostTickets.java:64)     - Test Case is : getTGTNoUsername
+2015-09-16 00:50:53,767 INFO  [main] (PostTickets.java:53)     - Test Case is : getTGTNormal
+2015-09-16 00:50:53,923 INFO  [main] (PostTickets.java:95)     - Test Case is : getTGTWrongPassword
+2015-09-16 00:50:54,080 INFO  [main] (PostTickets.java:84)     - Test Case is : getTGTWrongUsername
+2015-09-16 00:50:55,377 INFO  [main] ( GetRole.java:40)     - Test Case is : getRole
+2015-09-16 00:50:56,502 INFO  [main] ( GetRole.java:49)     - Test Case is : getRoleNoId
+2015-09-16 00:50:58,377 INFO  [main] (PostRegProxyValidate.java:72)     - Test Case is : postProxyValidateNormal
+2015-09-16 00:50:59,908 INFO  [main] (PostModifyPassword.java:55)     - Test Case is : testModifyPasswordNormal
+2015-09-16 00:51:00,127 INFO  [main] ( PutRole.java:41)     - Test Case is : putUserRoleNormal
+2015-09-16 00:51:00,361 INFO  [main] ( PutRole.java:50)     - Test Case is : putUserRoleNoName
+2015-09-16 00:51:03,173 INFO  [main] (PostProxyValidate.java:73)     - Test Case is : postProxyValidateNormal
+2015-09-16 00:51:04,955 INFO  [main] (PostTicketsTGT.java:82)     - Test Case is : testPostSTNormal
+2015-09-16 00:51:06,252 INFO  [main] (PostRegister.java:85)     - Test Case is : postRegisterUserNoEmail
+2015-09-16 00:51:06,377 INFO  [main] (PostRegister.java:73)     - Test Case is : postRegisterUserNoPassword
+2015-09-16 00:51:06,502 INFO  [main] (PostRegister.java:61)     - Test Case is : postRegisterUserNoUsername
+2015-09-16 00:51:06,642 INFO  [main] (PostRegister.java:48)     - Test Case is : postRegisterUserNormal
+2015-09-16 00:51:10,033 INFO  [main] (PostUserInfo.java:41)     - Test Case is : postUserInfo
+2015-09-16 00:51:10,252 INFO  [main] (PostUser.java:84)     - Test Case is : testAddUserNoEmail
+2015-09-16 00:51:10,345 INFO  [main] (PostUser.java:73)     - Test Case is : testAddUserNoPassword
+2015-09-16 00:51:10,455 INFO  [main] (PostUser.java:62)     - Test Case is : testAddUserNoUsername
+2015-09-16 00:51:10,548 INFO  [main] (PostUser.java:49)     - Test Case is : testAddUser
+2015-09-16 00:51:12,127 INFO  [main] ( GetUser.java:57)     - Test Case is : getUserNormal
+2015-09-16 00:51:12,298 INFO  [main] ( GetUser.java:68)     - Test Case is : getUserNoId
+2015-09-16 00:51:13,580 INFO  [main] (DeleteTicketTGT.java:49)     - Test Case is : DeleteTicketTGT.registerUser
+2015-09-16 00:51:14,080 INFO  [main] (DeleteTicketTGT.java:72)     - Test Case is : deleteTGT

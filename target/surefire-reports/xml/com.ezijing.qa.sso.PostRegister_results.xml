@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.859">
+  <properties />
+  
+  
+            <testcase name="postRegisterUserNoUsername" time="0.140" classname="com.ezijing.qa.sso.PostRegister" />
+                <testcase name="postRegisterUserNormal" time="0.438" classname="com.ezijing.qa.sso.PostRegister" />
+                <testcase name="postRegisterUserNoPassword" time="0.156" classname="com.ezijing.qa.sso.PostRegister" />
+                <testcase name="postRegisterUserNoEmail" time="0.125" classname="com.ezijing.qa.sso.PostRegister" />
+      
+</testsuite>

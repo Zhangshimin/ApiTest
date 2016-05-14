@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.281">
+  <properties />
+  
+  
+            <testcase name="testRegisterCheckExistUser" time="0.141" classname="com.ezijing.qa.sso.PostRegisterCheck" />
+                <testcase name="testRegisterCheckNoExistUser" time="0.140" classname="com.ezijing.qa.sso.PostRegisterCheck" />
+      
+</testsuite>

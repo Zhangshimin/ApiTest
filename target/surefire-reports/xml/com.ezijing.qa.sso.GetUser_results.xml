@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.312">
+  <properties />
+  
+  
+            <testcase name="getUserNormal" time="0.187" classname="com.ezijing.qa.sso.GetUser" />
+                <testcase name="getUserNoId" time="0.125" classname="com.ezijing.qa.sso.GetUser" />
+      
+</testsuite>

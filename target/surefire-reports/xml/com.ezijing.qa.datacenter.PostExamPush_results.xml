@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="10"
+           failures="1"
+           errors="0"
+           skipped="0"
+           time="1.922">
+  <properties />
+            <testcase name="examPushNouserip" time="0.188" classname="com.ezijing.qa.datacenter.PostExamPush">
+                <failure type="java.lang.AssertionError"
+                  message="expected:&lt;200&gt; but was:&lt;400&gt;"
+              >
+<![CDATA[java.lang.AssertionError: expected:<200> but was:<400>
+  org.junit.Assert.fail(Assert.java:88)
+  org.junit.Assert.failNotEquals(Assert.java:743)
+  org.junit.Assert.assertEquals(Assert.java:118)
+  org.junit.Assert.assertEquals(Assert.java:555)
+  org.junit.Assert.assertEquals(Assert.java:542)
+  com.ezijing.qa.datacenter.PostExamPush.examPushNouserip(PostExamPush.java:167)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:497)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+  org.testng.internal.InvokeMethodRunnable.runOne(InvokeMethodRunnable.java:46)
+  org.testng.internal.InvokeMethodRunnable.run(InvokeMethodRunnable.java:37)
+  java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+  java.util.concurrent.FutureTask.run(FutureTask.java:266)
+  java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+  java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+  java.lang.Thread.run(Thread.java:745)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+            <testcase name="examPushNodevicetype" time="0.234" classname="com.ezijing.qa.datacenter.PostExamPush" />
+                <testcase name="examPushNormal" time="0.187" classname="com.ezijing.qa.datacenter.PostExamPush" />
+                <testcase name="examPushNostarttime" time="0.203" classname="com.ezijing.qa.datacenter.PostExamPush" />
+                <testcase name="examPushNocourseid" time="0.157" classname="com.ezijing.qa.datacenter.PostExamPush" />
+                <testcase name="examPushNoaccuracy" time="0.187" classname="com.ezijing.qa.datacenter.PostExamPush" />
+                <testcase name="examPushNoscore" time="0.188" classname="com.ezijing.qa.datacenter.PostExamPush" />
+                <testcase name="examPushNouid" time="0.187" classname="com.ezijing.qa.datacenter.PostExamPush" />
+                <testcase name="examPushNofullscore" time="0.188" classname="com.ezijing.qa.datacenter.PostExamPush" />
+                <testcase name="examPushNoendtime" time="0.203" classname="com.ezijing.qa.datacenter.PostExamPush" />
+      
+</testsuite>

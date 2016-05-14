@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.219">
+  <properties />
+  
+  
+            <testcase name="mobileSliderNormal" time="0.219" classname="com.ezijing.qa.datacenter.mobile.GetSlider" />
+      
+</testsuite>

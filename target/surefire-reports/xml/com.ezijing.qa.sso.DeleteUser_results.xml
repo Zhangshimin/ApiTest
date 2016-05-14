@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.484">
+  <properties />
+  
+  
+            <testcase name="deleteUserNormal" time="0.125" classname="com.ezijing.qa.sso.DeleteUser" />
+                <testcase name="deleteUserNoExist" time="0.172" classname="com.ezijing.qa.sso.DeleteUser" />
+                <testcase name="deleteUserNoId" time="0.187" classname="com.ezijing.qa.sso.DeleteUser" />
+      
+</testsuite>

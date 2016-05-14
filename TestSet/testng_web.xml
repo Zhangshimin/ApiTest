@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">  
+<suite name="suitename" verbose="1"  configfailurepolicy="continue" time-out="1000" skipfailedinvocationcounts="true"> 
+	<test name="Web" preserve-order="true" skipfailedinvocationcounts="true" >
+	<packages>
+		 <!--<package name="com.ezijing.qa.smoke" />-->
+	</packages>
+	</test> <!-- Test -->
+	<test name="learncenter">
+		<classes>
+			<class name="com.ezijing.qa.learncentre.GetLearningList" />
+		<class name="com.ezijing.qa.learncentre.GetPackageAjaxCreate" />
+		<class name="com.ezijing.qa.learncentre.GetPlanAjaxUpdate" />
+		<class name="com.ezijing.qa.learncentre.GetPlanValidate" />
+		<class name="com.ezijing.qa.learncentre.GetPlanView" />
+		<class name="com.ezijing.qa.learncentre.PostPackageCreate" />
+		<class name="com.ezijing.qa.learncentre.PostPlanCreate" />
+		<class name="com.ezijing.qa.learncentre.PostPlanUpdate" />
+		</classes>
+	</test>
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+</suite> <!-- Suite -->

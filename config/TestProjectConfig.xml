@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Project name="JifenAPI">
+	<ID></ID>
+	<CaseType></CaseType>
+	<Package>com.ezijing.qa.jifen</Package>
+	<TestCases>
+		<TestCase>TestGetJifen</TestCase>
+		<TestCase>TestPostJifen</TestCase>
+		<TestCase>TestPutJifen</TestCase>
+		<TestCase>TestDeleteJifen</TestCase>
+	</TestCases>
+</Project>

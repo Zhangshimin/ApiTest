@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.562">
+  <properties />
+  
+  
+            <testcase name="testAddUserNoPassword" time="0.109" classname="com.ezijing.qa.sso.PostUser" />
+                <testcase name="testAddUserNoUsername" time="0.141" classname="com.ezijing.qa.sso.PostUser" />
+                <testcase name="testAddUserNoEmail" time="0.125" classname="com.ezijing.qa.sso.PostUser" />
+                <testcase name="testAddUser" time="0.187" classname="com.ezijing.qa.sso.PostUser" />
+      
+</testsuite>

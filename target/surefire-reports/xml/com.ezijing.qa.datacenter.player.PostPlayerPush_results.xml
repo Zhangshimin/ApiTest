@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="4"
+           failures="1"
+           errors="0"
+           skipped="0"
+           time="1.860">
+  <properties />
+            <testcase name="pushPlayerNormal" time="1.016" classname="com.ezijing.qa.datacenter.player.PostPlayerPush">
+                <failure type="org.testng.internal.thread.ThreadTimeoutException"
+                  message="Method org.testng.internal.TestNGMethod.pushPlayerNormal() didn&apos;t finish within the time-out 1000"
+              >
+<![CDATA[org.testng.internal.thread.ThreadTimeoutException: Method org.testng.internal.TestNGMethod.pushPlayerNormal() didn't finish within the time-out 1000
+  java.util.zip.Inflater.inflateBytes(Native Method)
+  java.util.zip.Inflater.inflate(Inflater.java:259)
+  java.util.zip.InflaterInputStream.read(InflaterInputStream.java:152)
+  java.util.zip.InflaterInputStream.read(InflaterInputStream.java:122)
+  java.io.FilterInputStream.read(FilterInputStream.java:83)
+  java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$XsbReader.readShort(SchemaTypeSystemImpl.java:1773)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$XsbReader.readString(SchemaTypeSystemImpl.java:1827)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$XsbReader.readHandle(SchemaTypeSystemImpl.java:1981)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$XsbReader.readTypeRef(SchemaTypeSystemImpl.java:2095)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$XsbReader.readXmlValueObject(SchemaTypeSystemImpl.java:3224)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$XsbReader.loadParticle(SchemaTypeSystemImpl.java:3016)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$XsbReader.readParticleData(SchemaTypeSystemImpl.java:2989)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$XsbReader.readParticleArray(SchemaTypeSystemImpl.java:2970)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$XsbReader.loadParticle(SchemaTypeSystemImpl.java:3037)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$XsbReader.readParticleData(SchemaTypeSystemImpl.java:2989)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$XsbReader.readParticleArray(SchemaTypeSystemImpl.java:2970)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$XsbReader.finishLoadingType(SchemaTypeSystemImpl.java:2555)
+  org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl.resolveHandle(SchemaTypeSystemImpl.java:3507)
+  org.apache.xmlbeans.SchemaComponent$Ref.getComponent(SchemaComponent.java:104)
+  org.apache.xmlbeans.SchemaType$Ref.get(SchemaType.java:872)
+  org.apache.xmlbeans.impl.schema.SchemaPropertyImpl.getType(SchemaPropertyImpl.java:92)
+  org.apache.xmlbeans.impl.schema.SchemaTypeImpl.createElementType(SchemaTypeImpl.java:965)
+  org.apache.xmlbeans.impl.values.XmlObjectBase.create_element_user(XmlObjectBase.java:893)
+  org.apache.xmlbeans.impl.store.Xobj.getUser(Xobj.java:1657)
+  org.apache.xmlbeans.impl.store.Xobj.find_element_user(Xobj.java:2062)
+  org.openxmlformats.schemas.spreadsheetml.x2006.main.impl.WorksheetDocumentImpl.getWorksheet(Unknown Source)
+  org.apache.poi.xssf.usermodel.XSSFSheet.read(XSSFSheet.java:153)
+  org.apache.poi.xssf.usermodel.XSSFSheet.onDocumentRead(XSSFSheet.java:145)
+  org.apache.poi.xssf.usermodel.XSSFWorkbook.onDocumentRead(XSSFWorkbook.java:201)
+  org.apache.poi.POIXMLDocument.load(POIXMLDocument.java:200)
+  org.apache.poi.xssf.usermodel.XSSFWorkbook.<init>(XSSFWorkbook.java:151)
+  org.apache.poi.xssf.usermodel.XSSFWorkbook.<init>(XSSFWorkbook.java:167)
+  com.ezijing.qa.util.PoiUtils.readExcel(PoiUtils.java:62)
+  com.ezijing.qa.util.PoiUtils.getTestData(PoiUtils.java:750)
+  com.ezijing.qa.datacenter.player.PostPlayerPush.pushPlayerNormal(PostPlayerPush.java:41)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:497)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+  org.testng.internal.InvokeMethodRunnable.runOne(InvokeMethodRunnable.java:46)
+  org.testng.internal.InvokeMethodRunnable.run(InvokeMethodRunnable.java:37)
+  java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+  java.util.concurrent.FutureTask.run(FutureTask.java:266)
+  java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+  java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+  java.lang.Thread.run(Thread.java:745)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+            <testcase name="pushPlayerNovsid" time="0.250" classname="com.ezijing.qa.datacenter.player.PostPlayerPush" />
+                <testcase name="pushPlayerNots" time="0.359" classname="com.ezijing.qa.datacenter.player.PostPlayerPush" />
+                <testcase name="pushPlayerNovid" time="0.235" classname="com.ezijing.qa.datacenter.player.PostPlayerPush" />
+      
+</testsuite>

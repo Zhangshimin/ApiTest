@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.267">
+  <properties />
+  
+  
+            <testcase name="modifyUserInfoNormal" time="0.110" classname="com.ezijing.qa.sso.PutUser" />
+                <testcase name="modifyUserInfoNoId" time="0.078" classname="com.ezijing.qa.sso.PutUser" />
+                <testcase name="modifyUserInfoNoOther" time="0.079" classname="com.ezijing.qa.sso.PutUser" />
+      
+</testsuite>

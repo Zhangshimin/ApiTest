@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.297">
+  <properties />
+  
+  
+            <testcase name="getRoleNoId" time="0.157" classname="com.ezijing.qa.sso.GetRole" />
+                <testcase name="getRole" time="0.140" classname="com.ezijing.qa.sso.GetRole" />
+      
+</testsuite>

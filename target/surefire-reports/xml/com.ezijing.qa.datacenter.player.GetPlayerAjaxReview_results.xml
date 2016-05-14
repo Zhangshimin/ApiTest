@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.500">
+  <properties />
+  
+  
+            <testcase name="ajaxreviewPlayerNoQuiid" time="0.203" classname="com.ezijing.qa.datacenter.player.GetPlayerAjaxReview" />
+                <testcase name="ajaxreviewPlayerNoVideoid" time="0.203" classname="com.ezijing.qa.datacenter.player.GetPlayerAjaxReview" />
+                <testcase name="ajaxreviewPlayerNormal" time="0.234" classname="com.ezijing.qa.datacenter.player.GetPlayerAjaxReview" />
+                <testcase name="ajaxreviewPlayerNoResult" time="0.218" classname="com.ezijing.qa.datacenter.player.GetPlayerAjaxReview" />
+                <testcase name="ajaxreviewPlayerNoDeviceType" time="0.219" classname="com.ezijing.qa.datacenter.player.GetPlayerAjaxReview" />
+                <testcase name="ajaxreviewPlayerNoCostTime" time="0.219" classname="com.ezijing.qa.datacenter.player.GetPlayerAjaxReview" />
+                <testcase name="ajaxreviewPlayerNoSeriesid" time="0.204" classname="com.ezijing.qa.datacenter.player.GetPlayerAjaxReview" />
+      
+</testsuite>

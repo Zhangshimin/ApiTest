@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSO"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.297">
+  <properties />
+  
+  
+            <testcase name="testVideomarkNormal" time="0.156" classname="com.ezijing.qa.datacenter.video.GetVideoIsMark" />
+                <testcase name="testVideomarkNovideoid" time="0.141" classname="com.ezijing.qa.datacenter.video.GetVideoIsMark" />
+      
+</testsuite>
